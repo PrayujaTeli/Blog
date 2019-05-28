@@ -17,10 +17,12 @@ IP address is short for Internet Protocol (IP) address. An IP address is an iden
 An IP address serves two principal functions. It identifies the host, or more specifically its network interface, and it provides the location of the host in the network, and thus the capability of establishing a path to that host. 
  
 > ## What is public IP address?<br/>
+
 A public IP address is the address that is assigned to a computing device to allow direct access over the Internet. A web server, email server and any server device directly accessible from the Internet are candidate for a public IP address. A public IP address is globally unique, and can only be assigned to a unique device.
 
 > ## What is private IP address?<br/>
-A private IP address is the address space allocated by InterNIC to allow organizations to create their own private network. There are three IP blocks (1 class A, 1 class B and 1 class C) reserved for a private use. The computers, tablets and smartphones sitting behind your home, and the personal computers within an organizations are usually assigned private IP addresses. 
+
+A private IP address is the address space allocated by InterNIC to allow organizations to create their own private network. The computers, tablets and smartphones sitting behind your home, and the personal computers within an organizations are usually assigned private IP addresses. 
  
 *Note - InterNIC - Network Information Center*
  
