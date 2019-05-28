@@ -22,6 +22,7 @@ A public IP address is the address that is assigned to a computing device to all
 > ## What is private IP address?<br/>
 A private IP address is the address space allocated by InterNIC to allow organizations to create their own private network. There are three IP blocks (1 class A, 1 class B and 1 class C) reserved for a private use. The computers, tablets and smartphones sitting behind your home, and the personal computers within an organizations are usually assigned private IP addresses. 
  
+*Note - InterNIC - Network Information Center*
  
 #### How to find IP Address on your system.
 
