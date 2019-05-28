@@ -42,6 +42,7 @@ A private IP address is the address space allocated by InterNIC to allow organiz
 
 Internet is a global network of computers each computer connected to the Internet must have a unique address. Internet addresses are in the form of nnn.nnn.nnn.nnn where nnn must be a number from 0 - 255. This address is known as an IP address. The program to see if a computer on the Internet is alive is ping.
 
+![Screenshot from 2019-05-28 15-12-43](https://user-images.githubusercontent.com/50698539/58474843-ef6da400-8169-11e9-8009-463e1638e61d.png)
 
 
 
