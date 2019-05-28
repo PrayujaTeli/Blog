@@ -56,7 +56,7 @@ Traceroute and it shows the path your packets are taking to a given Internet des
 6.On the other end of the phone line your ISP has a direct connection to the Internet. The ISPs router examines the destination address in each packet and determines where to send it.</br>
 7.Eventually, the packets reach computer 5.6.7.8. Here, the packets start at the bottom of the destination computer's TCP/IP stack and work upwards.<br/>
 8.As the packets go upwards through the stack, all routing data that the sending computer's stack added (such as IP address and port number) is stripped from the packets.
-9. When the data reaches the top of the stack, the packets have been re-assembled into their original form, "Hello computer 5.6.7.8!"<br>
+9.When the data reaches the top of the stack, the packets have been re-assembled into their original form, "Hello computer 5.6.7.8!"<br>
 
  
  
@@ -72,12 +72,12 @@ When applications open a connection to another computer on the Internet, the mes
 3.OS makes a DNS lookup and replies the IP address to the browser<br/>
 4.The browser opens a TCP connection to the server (this step is much more complex with HTTPS)<br/>
 5.The browser sends the HTTP request through TCP connection<br/>
-6.The browser receives HTTP response and may close the TCP connection, or reuse it for another request<br/>
+6.The browser receives HTTP response and may close the TCP connection.<br/>
 7.browser checks if the response is a redirect or a conditional response.<br/>
 8.if cacheable, the response is stored in the cache.<br/>
 browser decodes the response.<br/>
 9.The browser determines what to do with the response.<br/>
-10.The browser then uses HTML parser to re-create document structure which is later presented to you on screen. If it finds references to external resources, such as pictures, CSS files, javascript files, these are is delivered the same way as the HTML document itself.<br/>
+10.The browser then uses HTML parser to re-create document structure which is later presented to you on screen. If it finds references to external resources and delivered the same way as the HTML document itself.<br/>
 
 
 ### Share comment and feedback please.
