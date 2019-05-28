@@ -80,6 +80,7 @@ browser decodes the response.<br/>
 10.The browser then uses HTML parser to re-create document structure which is later presented to you on screen. If it finds references to external resources and delivered the same way as the HTML document itself.<br/>
 
 
+
 ### Share comment and feedback please.
 
  
