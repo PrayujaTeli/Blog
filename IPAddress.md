@@ -29,7 +29,9 @@ A private IP address is the address space allocated by InterNIC to allow organiz
 
 2. /sbin/ifconfig
 
-3. hostname -I 
+3. ifconfig
+
+4. hostname -I 
 
 *Note - It is capital I after hostname.*
  
