@@ -38,6 +38,12 @@ A private IP address is the address space allocated by InterNIC to allow organiz
 
 *Note - It is capital I after hostname.*
  
+> ## How Does the Internet Work?
+
+Internet is a global network of computers each computer connected to the Internet must have a unique address. Internet addresses are in the form of nnn.nnn.nnn.nnn where nnn must be a number from 0 - 255. This address is known as an IP address. The program to see if a computer on the Internet is alive is ping.
+
+
+
 
 ### Share comment and feedback please.
 
