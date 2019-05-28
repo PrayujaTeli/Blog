@@ -48,18 +48,36 @@ Traceroute and it shows the path your packets are taking to a given Internet des
  
  ![Screenshot from 2019-05-28 17-06-18](https://user-images.githubusercontent.com/50698539/58475270-1e384a00-816b-11e9-8673-51d05f237cf1.png)
 
- The message would start at the top of the protocol stack on your computer and work it's way downward.
-If the message to be sent is long, each stack layer that the message passes through may break the message up into smaller chunks of data. This is because data sent over the Internet (and most computer networks) are sent in manageable chunks. On the Internet, these chunks of data are known as packets.
-The packets would go through the Application Layer and continue to the TCP layer. Each packet is assigned a port number. Ports will be explained later, but suffice to say that many programs may be using the TCP/IP stack and sending messages. We need to know which program on the destination computer needs to receive the message because it will be listening on a specific port.
-After going through the TCP layer, the packets proceed to the IP layer. This is where each packet receives it's destination address, 5.6.7.8.
-Now that our message packets have a port number and an IP address, they are ready to be sent over the Internet. The hardware layer takes care of turning our packets containing the alphabetic text of our message into electronic signals and transmitting them over the phone line.
-On the other end of the phone line your ISP has a direct connection to the Internet. The ISPs router examines the destination address in each packet and determines where to send it. Often, the packet's next stop is another router. More on routers and Internet infrastructure later.
-Eventually, the packets reach computer 5.6.7.8. Here, the packets start at the bottom of the destination computer's TCP/IP stack and work upwards.
-As the packets go upwards through the stack, all routing data that the sending computer's stack added (such as IP address and port number) is stripped from the packets.
-When the data reaches the top of the stack, the packets have been re-assembled into their original form, "Hello computer 5.6.7.8!"
+1.The message would start at the top of the protocol stack on your computer.<br/>
+2.If the message to be sent is long, each stack layer that the message passes through may break the message up into smaller chunks of data.<br/>
+3.The packets would go through the Application Layer and continue to the TCP layer. Each packet is assigned a port number. Ports will be explained later, but suffice to say that many programs may be using the TCP/IP stack and sending messages.<br/>
+4.After going through the TCP layer, the packets proceed to the IP layer. This is where each packet receives it's destination address, 5.6.7.8.<br/>
+5.Now that our message packets have a port number and an IP address, they are ready to be sent over the Internet. The hardware layer takes care of turning our packets containing the alphabetic text of our message into electronic signals and transmitting them over the phone line.<br/>
+6.On the other end of the phone line your ISP has a direct connection to the Internet. The ISPs router examines the destination address in each packet and determines where to send it.</br>
+7.Eventually, the packets reach computer 5.6.7.8. Here, the packets start at the bottom of the destination computer's TCP/IP stack and work upwards.<br/>
+8.As the packets go upwards through the stack, all routing data that the sending computer's stack added (such as IP address and port number) is stripped from the packets.
+9. When the data reaches the top of the stack, the packets have been re-assembled into their original form, "Hello computer 5.6.7.8!"<br>
 
  
  
+#### Transmission Control Protocol<br/>
+
+When applications open a connection to another computer on the Internet, the messages they send (using a specific application layer protocol) get passed down the stack to the TCP layer. TCP is responsible for routing application protocols to the correct application on the destination computer.<br/>
+
+
+#### what happens when user hits any website URL to browser.<br/>
+
+1.Firstly Browser checks cache; if the requested object is in the cache and is fresh, Goes to step 9<br/>
+2.The browser asks OS or browser for server's IP address (stored in the cache)<br/>
+3.OS makes a DNS lookup and replies the IP address to the browser<br/>
+4.The browser opens a TCP connection to the server (this step is much more complex with HTTPS)<br/>
+5.The browser sends the HTTP request through TCP connection<br/>
+6.The browser receives HTTP response and may close the TCP connection, or reuse it for another request<br/>
+7.browser checks if the response is a redirect or a conditional response.<br/>
+8.if cacheable, the response is stored in the cache.<br/>
+browser decodes the response.<br/>
+9.The browser determines what to do with the response.<br/>
+10.The browser then uses HTML parser to re-create document structure which is later presented to you on screen. If it finds references to external resources, such as pictures, CSS files, javascript files, these are is delivered the same way as the HTML document itself.<br/>
 
 
 ### Share comment and feedback please.
