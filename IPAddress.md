@@ -44,6 +44,12 @@ Internet is a global network of computers each computer connected to the Interne
 
 ![Screenshot from 2019-05-28 15-12-43](https://user-images.githubusercontent.com/50698539/58474843-ef6da400-8169-11e9-8009-463e1638e61d.png)
 
+Traceroute and it shows the path your packets are taking to a given Internet destination. Like ping, you must use traceroute from a command prompt.Traceroute will print out a list of all the routers, computers, and any other Internet entities that your packets must travel through to get to their destination.
+ 
+ 
+ 
+ 
+ 
 
 
 ### Share comment and feedback please.
