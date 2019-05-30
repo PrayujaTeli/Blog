@@ -82,9 +82,9 @@ git push origin master<br/>
 The "commit" command is used to save your changes to the local repository.<br/>
 
 #### Important Options<br/>
--m <message>  Sets the commit's message. Make sure to provide a concise description that helps your teammates (and yourself) understand what happened.<br/>
--a Includes all currently changed files in this commit. <br/>
---amend Rewrites the very last commit with any currently staged changes and/or a new commit message.<br/>
+-m <message>  = Sets the commit's message. Make sure to provide a concise description that helps your teammates (and yourself) understand what happened.<br/>
+-a  = Includes all currently changed files in this commit. <br/>
+--amend  = Rewrites the very last commit with any currently staged changes and/or a new commit message.<br/>
   
   
 #### Git status<br/>
