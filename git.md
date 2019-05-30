@@ -28,15 +28,14 @@ Cloning to a specific folder<br/>
   
  -l = When the repository to clone from is on a local machine<br/>
 
-##### CLONE OVER HTTPS:<br/>
+#### CLONE OVER HTTPS:<br/>
 *Syntax* - $ git clone https://username@repositarypath<br/>
-##### CLONE OVER SSH:<br/>
+#### CLONE OVER SSH:<br/>
 *Syntax* - $ git clone ssh://git@repositarypath<br/>
  
 #### Git Pull<br/>
 
 The "pull" command is used to download and integrate remote changes.<br/>
-
 Before using "git pull", make sure the correct local branch is checked out. Then, to perform the pull, simply specify which remote branch you want to integrate:<br/>
 $ git checkout repositarypath<br/>
 $ git pull origin repositarypath<br/>
@@ -72,11 +71,11 @@ The "push" command is used to publish new local commits on a remote server.git-p
 --delete Deletes the specified remote branch.<br/>
 
 > ## The tree structure of command<br/>
-git add <filename><br/>
-# now commit your code<br/>
-git commit -m "added some changes to my repo!"<br/>
-# push changes in `master` branch to GitHub<br/>
-git push origin master<br/>
+git add <filename>
+now commit your code
+git commit -m "added some changes to my repo!"
+push changes in master branch to GitHub
+git push origin master
 
 
 #### git commit<br/>
@@ -89,7 +88,7 @@ The "commit" command is used to save your changes to the local repository.<br/>
   
   
 #### Git status<br/>
-Check if there are already some changes tracked in the repository by git? git status will list any files that are changed<br/>
+git status will list any files that are changed<br/>
 
 ![git](https://user-images.githubusercontent.com/50698539/58624031-e2c58900-82ec-11e9-95cc-cfc84c464476.png)
 
