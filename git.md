@@ -71,11 +71,11 @@ The "push" command is used to publish new local commits on a remote server.git-p
 --delete Deletes the specified remote branch.<br/>
 
 > ## The tree structure of command<br/>
-git add <filename>
-now commit your code
-git commit -m "added some changes to my repo!"
-push changes in master branch to GitHub
-git push origin master
+git add filename<br/>
+now commit your code<br/>
+git commit -m "added some changes to my repo!"<br/>
+push changes in master branch to GitHub<br/>
+git push origin master<br/>
 
 
 #### git commit<br/>
