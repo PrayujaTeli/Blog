@@ -91,6 +91,7 @@ The "commit" command is used to save your changes to the local repository.<br/>
 #### Git status<br/>
 Check if there are already some changes tracked in the repository by git? git status will list any files that are changed<br/>
 
+![git](https://user-images.githubusercontent.com/50698539/58624031-e2c58900-82ec-11e9-95cc-cfc84c464476.png)
 
 
 
