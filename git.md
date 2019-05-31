@@ -93,6 +93,27 @@ git status will list any files that are changed<br/>
 ![git](https://user-images.githubusercontent.com/50698539/58624031-e2c58900-82ec-11e9-95cc-cfc84c464476.png)
 
 
+#### git branch<br/>
+
+1.Create a new branch<br/>
+*syntax*- git checkout -b branch_name<br/>
+2. Push your branch to the remote repository<br/>
+*syntax*- git push -u origin branch_name<br/>
+
+The command will create a local branch 
+git checkout --track origin/branch_name
+
+#### git merge<br/>
+The "merge" command is used to integrate changes from another branch.<br/>
+Use the merge command to merge branches.<br/>
+*syntax* - $ git merge <commit><br/>
+  
+#### To merge branches<br/>
+
+git checkout a(you will switch to branch a)<br/>
+git merge b (this will merge all changes from branch b into branch a)<br/>
+git commit -a (this will commit your changes)<br/>
+
 
 
 
