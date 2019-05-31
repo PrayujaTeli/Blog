@@ -97,7 +97,7 @@ git status will list any files that are changed<br/>
 
 1.Create a new branch<br/>
 *syntax*- git checkout -b branch_name<br/>
-2. Push your branch to the remote repository<br/>
+2.Push your branch to the remote repository<br/>
 *syntax*- git push -u origin branch_name<br/>
 
 The command will create a local branch 
