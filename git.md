@@ -138,7 +138,7 @@ After n user can mention number to show that much amount of output on the screen
 
 #### Editing tags - <br/>
 
-git tag -a -f <tag_identifier> <commit_id> <br/>
+git tag -a -f tag_identifier commit_id <br/>
 
 Instead of having to delete it and re-add the tag you can simply replace it while keeping the existing description. Choose the place in your commit history with <commit_id> where you want the tag moved to and add -f or -force to your command.
 
@@ -152,7 +152,7 @@ git push <location> <tag_identifier><br/>
 A tag is just a reference to your local repository and it is not automatically pushed to the remote repository with the rest of the code. Instead, you can git push the tag individually, or you can run git push --tags which will push all tags at once.<br/>
   
 #### Sorting tags -<br/>
-git tag --sort=<type><br/>
+git tag --sort=type<br/>
 When looking at a project with lots of tags, using the sort option can come in handy. Supported types are:<br/>
 refname (sorts in a lexicographic order),<br/>
 version:refname or v:refname (here tag names are treated as versions).<br/>
