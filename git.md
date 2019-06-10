@@ -157,3 +157,6 @@ When looking at a project with lots of tags, using the sort option can come in h
 refname (sorts in a lexicographic order),<br/>
 version:refname or v:refname (here tag names are treated as versions).<br/>
 git tag -l --sort=-version:refname "wildcard"<br/>
+
+
+### Feel free to share feedback please.
