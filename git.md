@@ -131,7 +131,11 @@ Now another user can view all the available tags by using the Git tag command wi
 Lightweight tags are the simplest way to add a tag to your git repository because they store only the hash of the commit they refer to. They are created with the absence of the -a, -s, or -m options and do not contain any extra information.
 Command-<br/>
 git tag  identifier<br/>
-Listing tags - git tag -l ‘wildcard’<br/>
+
+#### Listing tags - 
+git tag <br/>
+For special Keyword search use wildcard<br/>
+git tag -l ‘wildcard’<br/>
 Note -User can give wildcards to sort the output.<br/>
 when you call git tag you do not get to see the contents of your annotations. To preview them you must add -n to your command: git tag -n <br/>
 After n user can mention number to show that much amount of output on the screen.<br/>
