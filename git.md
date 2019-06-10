@@ -114,11 +114,48 @@ git checkout a(you will switch to branch a)<br/>
 git merge b (this will merge all changes from branch b into branch a)<br/>
 git commit -a (this will commit your changes)<br/>
 
+#### git tag<br/>
 
+Tag operation allows giving meaningful names to a specific version in the repository.<br/>
+There are two types of tags in Git: <br/>
+1.Annotated<br/>
+2.lightweight.<br/>
 
+#### 1.Annotated Tag
+User can provide a tag name with -a option and provides a tag message with –m option.If you want to tag a particular commit.<br/>
+Command -<br/>
+git tag -a  identifier -m message<br/>
+Now another user can view all the available tags by using the Git tag command with –l option also user can use the Git show command followed by its tag name to view more details about tag in which below details will be displayed - author name, release notes, tag-message, Name of Tagger and Date of Tag, Commit statements.<br/>
 
+#### 2. Lightweight Tags<br/>
+Lightweight tags are the simplest way to add a tag to your git repository because they store only the hash of the commit they refer to. They are created with the absence of the -a, -s, or -m options and do not contain any extra information.
+Command-<br/>
+git tag  identifier<br/>
+Listing tags - git tag -l ‘wildcard’<br/>
+Note -User can give wildcards to sort the output.<br/>
+when you call git tag you do not get to see the contents of your annotations. To preview them you must add -n to your command: git tag -n <br/>
+After n user can mention number to show that much amount of output on the screen.<br/>
 
+#### Editing tags - <br/>
 
+git tag -a -f <tag_identifier> <commit_id> <br/>
 
+Instead of having to delete it and re-add the tag you can simply replace it while keeping the existing description. Choose the place in your commit history with <commit_id> where you want the tag moved to and add -f or -force to your command.
 
+#### Deleting tags - <br/>
+
+User can use the following command to delete tags from the local as well as the remote repository.<br/>
+git tag -d identifier<br/>
+
+#### Publishing tags -<br/>
+git push <location> <tag_identifier><br/>
+A tag is just a reference to your local repository and it is not automatically pushed to the remote repository with the rest of the code. Instead, you can git push the tag individually, or you can run git push --tags which will push all tags at once.<br/>
+  
+#### Sorting tags -<br/>
+git tag --sort=<type><br/>
+When looking at a project with lots of tags, using the sort option can come in handy. Supported types are:<br/>
+refname (sorts in a lexicographic order),<br/>
+version:refname or v:refname (here tag names are treated as versions).<br/>
+git tag -l --sort=-version:refname "wildcard"<br/>
+ 
 
