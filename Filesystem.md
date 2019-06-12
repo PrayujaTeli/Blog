@@ -1,9 +1,5 @@
 ## [/dev/null](https://prayuja-teli.github.io/Blog/Filesystem)     
 
-> ## Definition<br/>
-
-#### /dev/null 
-
 /dev/null files are type "c" - character device commonly known /dev/ device file.<br/>
 /dev is device in which null is file which is used to eliminating output from terminal.<br/>
 /dev/null is null device in unix system. It immediately discards anything written to it.<br/>
