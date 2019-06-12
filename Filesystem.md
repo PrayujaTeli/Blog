@@ -17,7 +17,7 @@
 *Null Device* - 
 The null device is a device file that discards all data written to it but reports that the write operation succeeded.This device is also sends End of file character to any process reading data from it.<br/>
 
-*Device Filesystem* -
+*Device Filesystem* -<br/>
 The "/dev/" directory is a mountpoint for the devfs (Device Filesystem) pseudo-filesystem.<br/>
 devfs is a device manager in the form of a filesystem that displays each device as files. <br/>
 This pseudo/virtual filesystem is not on the hard-drive. Rather, it is in memory.<br/>
