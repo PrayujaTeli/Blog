@@ -9,7 +9,7 @@ Feel free to explore.
 2. [Concept of IP Address](https://Prayuja-Teli.github.io/Blog/IPAddress)
 3. [Tomcat Server](https://Prayuja-Teli.github.io/Blog/Tomcat)
 4. [Git and Git commands](https://Prayuja-Teli.github.io/Blog/git)
-5. [/dev/null Concept](https://Prayuja-Teli.github.io/Blog/filesystem)
+5. [/dev/null Concept](https://Prayuja-Teli.github.io/Blog/Filesystem)
 
 
 #### Feel free to share feedback.
