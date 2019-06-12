@@ -4,7 +4,11 @@
 
 #### /dev/null 
 
-/dev/null is the most commonly known /dev/ device file./dev/null is null device in unix system. It immediately discards anything written to it./dev is directory,null is file in /dev directory which is used to get output from or to redirect output to this file,mainly eliminating output from terminal.<br/>.This are type c files - character device./dev/null accept any stream without growing in size.it's size is always zero.
+/dev/null is the most commonly known /dev/ device file.<br/>
+/dev/null files are type c files - character device.<br/>
+/dev/null is null device in unix system. It immediately discards anything written to it.<br/>
+/dev is directory,null is file in /dev directory which is used to get output from or to redirect output to this file,mainly this file is used to eliminating output from terminal.<br/>
+/dev/null accept any stream without growing in size.it's size is always zero.
 
 *Null Device* - 
 The null device is a device file that discards all data written to it but reports that the write operation succeeded.This device is also sends End of file character to any process reading data from it.<br/>
