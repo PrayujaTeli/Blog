@@ -9,7 +9,7 @@
 
 *Character device*-<br/>
 
-A "c" Device is one with which the Driver communicates by sending and receiving single characters (bytes, octets).Where as drive is software that handles or manages a hardware controller.<br/>
+A "c" device is one with which the driver communicates by sending and receiving single characters (bytes, octets).Where as drive is software that handles or manages a hardware controller.<br/>
 
 /dev is device in which null is file which is used to eliminating output from terminal.<br/>
 /dev/null is null device in unix system. It immediately discards anything written to it.<br/>
