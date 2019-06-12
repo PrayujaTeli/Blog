@@ -1,3 +1,5 @@
+## [/dev/null Concept](https://prayuja-teli.github.io/Blog/filesystem)     
+
 /dev/null is null device in unix system  and immediately discards anything written to it.
 The null device is a device file that discards all data written to it but reports that the write operation succeeded. 
 This device is called /dev/null which also sends End of File character to any process reading data from it.
