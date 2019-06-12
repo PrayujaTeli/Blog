@@ -30,7 +30,7 @@ stdout (standard output, file descriptor 1)<br/>
 stderr (standard error, file descriptor 2).<br/>
 
 
-
+Note - Mountpoint - A mount point is a directory (typically an empty one) in the currently accessible filesystem(hierarchy of directories) on which an additional filesystem is mounted.
 
 
 
