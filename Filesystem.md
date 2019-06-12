@@ -24,7 +24,7 @@ devfs is a device manager in the form of a filesystem that displays each device 
 This pseudo/virtual filesystem is not on the hard-drive. Rather, it is in memory.<br/>
 The null device is typically used for disposing of unwanted output streams of a process.<br/>
 
-*File Descriptor* -
+*File Descriptor* -<br/>
 A file descriptor is a number that uniquely identifies an open file in a computer's operating system.<br/>
 There are three file descriptor in dev directory stderr , stdin , stdout and null is filetype where this file descriptor directs.<br/>
 These are file descriptor shown in number pattern stdin (standard input, file descriptor 0), stdout (standard output, file descriptor 1) and stderr (standard error, file descriptor 2).<br/>
@@ -35,3 +35,4 @@ These are file descriptor shown in number pattern stdin (standard input, file de
 
 
 
+#### Feel free to share feedback
