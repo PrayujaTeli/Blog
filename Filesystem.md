@@ -9,8 +9,9 @@
 
 *Character device*-
 
-/dev/null is null device in unix system. It immediately discards anything written to it.<br/>
+
 /dev is directory,null is file in /dev directory which is used to get output from or to redirect output to this file,mainly this file is used to eliminating output from terminal.<br/>
+/dev/null is null device in unix system. It immediately discards anything written to it.<br/>
 /dev/null accept any stream without growing in size.it's size is always zero.
 
 *Null Device* - 
