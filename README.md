@@ -11,6 +11,7 @@ Feel free to explore.
 4. [Git and Git commands](https://Prayuja-Teli.github.io/Blog/git)
 5. [/dev/null Concept](https://Prayuja-Teli.github.io/Blog/Filesystem)
 6. [TCP Protocol](https://Prayuja-Teli.github.io/Blog/TCP)
+7. [SFTP Protocol](https://Prayuja-Teli.github.io/Blog/SFTP)
 
 
 
