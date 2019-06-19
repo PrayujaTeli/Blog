@@ -37,11 +37,6 @@ The reset flag is used when a segment arrives that is not intended for the curre
 #### SYNchronization Flag<br/>
 The synchronization flag is perhaps the best-known flag in TCP communications. The SYN flag is initially sent when establishing the classic three-way handshake between two hosts.<br/>
 
-
-![Uploading image.png…]()<br/>
-
-
-
 #### FIN flag<br/>
 The FIN flag is used to tear down the virtual connections created using the previous SYN flag.  The FIN flag always appears when the last packets are exchanged between hosts or connections. It is important to note that when a host sends a FIN flag to close a connection that it may continue to receive data until the remote host has also closed the connection.<br/>
 
