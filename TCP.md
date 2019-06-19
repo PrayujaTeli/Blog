@@ -19,47 +19,31 @@ TCP provides flow control and quality of service.<br/>
 TCP operates in Client/Server point-to-point mode.<br/>
 TCP provides full-duplex server, i.e. it can perform roles of both receiver and sender.<br/>
 
->## Technical Flag and Handshake Analysis
-Urgent Pointer Flag
+>## Technical Flag and Handshake Analysis<br/>
 
-The urgent pointer flag is used to identify incoming data as urgent. The incoming segments do not have to wait until the previous segments are consumed by the receiving end but are sent directly and processed immediately. 
+#### Urgent Pointer Flag<br/>
 
-Acknowledgment Flag
-The acknowledgment flag is used to acknowledge the successful receipt of packets.  If you run a packet sniffer while transferring data using TCP, you will notice every packet you send or receive is followed by an Acknowledgement.
+The urgent pointer flag is used to identify incoming data as urgent. The incoming segments do not have to wait until the previous segments are consumed by the receiving end but are sent directly and processed immediately. <br/>
 
-Push Flag
-The push flag (like the urgent flag) exists to ensure that the data is given the priority it deserves and is processed at the sending or receiving end. This flag is used quite frequently at the beginning and end of a data transfer, affecting the way it is handled at both ends
-Reset Flag
-The reset flag is used when a segment arrives that is not intended for the current connection. If you were to send a packet to a host in order to establish a connection, and there was no such service waiting to answer at the remote host, the host would automatically reject the request and then send you a reply with the RST flag set.
-SYNchronization Flag
-The synchronization flag is perhaps the best-known flag in TCP communications. The SYN flag is initially sent when establishing the classic three-way handshake between two hosts.
+#### Acknowledgment Flag<br/>
+The acknowledgment flag is used to acknowledge the successful receipt of packets.  If you run a packet sniffer while transferring data using TCP, you will notice every packet you send or receive is followed by an Acknowledgement.<br/>
 
+#### Push Flag<br/>
+The push flag (like the urgent flag) exists to ensure that the data is given the priority it deserves and is processed at the sending or receiving end. This flag is used quite frequently at the beginning and end of a data transfer, affecting the way it is handled at both ends<br/>
 
+#### Reset Flag<br/>
+The reset flag is used when a segment arrives that is not intended for the current connection. If you were to send a packet to a host in order to establish a connection, and there was no such service waiting to answer at the remote host, the host would automatically reject the request and then send you a reply with the RST flag set.<br/>
 
-
-
+#### SYNchronization Flag<br/>
+The synchronization flag is perhaps the best-known flag in TCP communications. The SYN flag is initially sent when establishing the classic three-way handshake between two hosts.<br/>
 
 
-
+![Uploading image.png…]()<br/>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### FIN flag<br/>
+The FIN flag is used to tear down the virtual connections created using the previous SYN flag.  The FIN flag always appears when the last packets are exchanged between hosts or connections. It is important to note that when a host sends a FIN flag to close a connection that it may continue to receive data until the remote host has also closed the connection.<br/>
 
 
 
