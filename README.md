@@ -10,7 +10,7 @@ Feel free to explore.
 3. [Git and Git commands](https://Prayuja-Teli.github.io/Blog/git)
 4. [/dev/null Concept](https://Prayuja-Teli.github.io/Blog/Filesystem)
 5. [TCP Protocol](https://Prayuja-Teli.github.io/Blog/TCP)
-6. [Git](https://Prayuja-Teli.github.io/Blog/Git)
+6. [Rebasing and merging in git](https://Prayuja-Teli.github.io/Blog/Git)
 
 
 
