@@ -1,22 +1,10 @@
 ## [Rebasing and merging](https://prayuja-teli.github.io/Blog/Git)     
 
 
-> ## Rebasing <br/>
+> ## Merging <br/>
 
-The rebase re-writes the changes of one branch onto another without creating a new commit.<br/>
+Merging is a common practice for developers using version control systems. Whether branches are created for testing, bug fixes, or other reasons, merging commits changes to another location. To be more specific, merging takes the contents of a source branch and integrates it with a target branch. In this process, only the target branch is changed. 
 
-
-#### How to do it<br/>
-Rebase the feature branch onto the master branch using the following commands.<br/>
-$ git checkout feature<br/>
-$ git rebase master<br/>
-
-
->## What Is Git Merge?<br/>
-
-Git merge allows you to merge branches from Git.
-Merging is a common practice for developers using version control systems. Whether branches are created for testing, bug fixes, or other reasons, merging commits changes to another location. To be more specific, merging takes the contents of a source branch and integrates it with a target branch. In this process, only the target branch is changed. The source branch history remains.<br/>
- 
 #### Merging Pros and Cons<br/>
 
 #### Pros:<br/>
@@ -40,6 +28,21 @@ $ git merge master<br/>
 $ git merge master feature<br/>
 
 
+> ## Rebasing <br/>
+ 
+The rebase re-writes the changes of one branch onto another without creating a new commit.<br/>
+ 
+#### Rebasing Pros and Cons <br/>
+
+#### Pros: <br/>
+Code history is simplified, linear and readable.<br/>
+Manipulating a single commit history is easier than a history of many separate feature branches with its additional commits.<br/>
+Clean, clear commit messages make it better to track a bug or when a feature was introduced.<br/>
+
+#### Cons: <br/>
+
+Rebasing doesn't work with pull requests, because you can't see what minor changes someone made. Rewriting of history is bad for teamwork!<br/>
+It requires more work when dealing with conflicts. Using rebase to keep your feature branch updated requires that you resolve similar conflicts again and again. While with merging, once you solve the conflicts, you're set. You have to resolve the conflict in the order they were created to continue the rebase.<br/>
 
 
 
@@ -47,10 +50,10 @@ $ git merge master feature<br/>
 
 
 
-
-
-
-
+#### How to do it<br/>
+Rebase the feature branch onto the master branch using the following commands.<br/>
+$ git checkout feature<br/>
+$ git rebase master<br/>
 
 
 
