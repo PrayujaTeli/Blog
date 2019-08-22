@@ -28,9 +28,9 @@ $ git merge master<br/>
  
 $ git merge master feature<br/>
 
-#### Git Checkout -
+#### Git Checkout -<br/>
 
-A checkout is the act of switching between different versions of a target entity.
+A checkout is the act of switching between different versions of a target entity.<br/>
 
 
 > ## Rebasing <br/>
