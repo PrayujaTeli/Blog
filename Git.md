@@ -47,7 +47,8 @@ Clean, clear commit messages make it better to track a bug or when a feature was
 #### Cons: <br/>
 
 Rebasing doesn't work with pull requests, because you can't see what minor changes someone made. Rewriting of history is bad for teamwork!<br/>
-It requires more work when dealing with conflicts. Using rebase to keep your feature branch updated requires that you resolve similar conflicts again and again. While with merging, once you solve the conflicts, you're set. You have to resolve the conflict in the order they were created to continue the rebase.<br/>
+It requires more work when dealing with conflicts. Using rebase to keep your feature branch updated requires that you resolve similar conflicts again and again.<br/>
+While with merging, once you solve the conflicts, you're set. You have to resolve the conflict in the order they were created to continue the rebase.<br/>
 
 #### How to do it<br/>
 Rebase the feature branch onto the master branch using the following commands.<br/>
