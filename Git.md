@@ -21,7 +21,7 @@ Debugging using git bisect can become harder.<br/>
 #### How to do it<br/>
 Merge the master branch into the feature branch using the checkout and merge commands.<br/>
 $ git checkout feature<br/> 
-Feature is branch from Git master.</br>
+Feature is branch from Git master.<br/>
 $ git merge master<br/>
  
 (or)<br/>
