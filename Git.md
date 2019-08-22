@@ -48,8 +48,8 @@ The rebase re-writes the changes of one branch onto another without creating a n
 #### Cons: <br/>
 
 & #8594;Rebasing doesn't work with pull requests, because you can't see what minor changes someone made. Rewriting of history is bad for teamwork!<br/>
-& #8594;It requires more work when dealing with conflicts. Using rebase to keep your feature branch updated requires that you resolve similar conflicts again and again.<br/>
-& #8594;While with merging, once you solve the conflicts, you're set. You have to resolve the conflict in the order they were created to continue the rebase.<br/>
+It requires more work when dealing with conflicts. Using rebase to keep your feature branch updated requires that you resolve similar conflicts again and again.<br/>& #8594;
+While with merging, once you solve the conflicts, you're set. You have to resolve the conflict in the order they were created to continue the rebase.<br/>& #8594;
 
 #### How to do it<br/>
 Rebase the feature branch onto the master branch using the following commands.<br/>
