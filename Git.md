@@ -9,7 +9,7 @@ Merging is a common practice for developers using version control systems. Wheth
 
 #### Pros:<br/>
 
-1. Simple to use and understand and familiar.</br>
+1. Simple to use and understand and familiar.<br/>
 2. Maintains the original context of the source branch.<br/>
 3. The commits on the source branch are separated from other branch commits. This can be useful if you want to take the feature and merge it into another branch later.<br/>
 4. Preserves your commit history and keeps the history graph semantically correct.<br/>
