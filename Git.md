@@ -39,8 +39,6 @@ The rebase re-writes the changes of one branch onto another without creating a n
  
 #### Rebasing Pros and Cons <br/>
 
-The rebase re-writes the changes of one branch onto another without creating a new commit.
-
 #### Pros: <br/>
 Code history is simplified, linear and readable.<br/>
 Manipulating a single commit history is easier than a history of many separate feature branches with its additional commits.<br/>
