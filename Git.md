@@ -17,7 +17,6 @@ Merging is a common practice for developers using version control systems. Wheth
 #### Cons:<br/>
 1. History can become intensely polluted by lots of merge commits because multiple people are working on the same branch in parallel.<br/>
 2. Visual charts of your repository can become a mess.<br/>
-3. Debugging using git bisect can become harder.<br/>
 
 #### How to do it<br/>
 Merge the master branch into the feature branch using the checkout and merge commands.<br/>
