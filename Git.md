@@ -57,7 +57,7 @@ $ git rebase master<br/>
 
 #### When to use rebase and when to use merging?<br/>
 
-If the feature branch you are getting changes from is shared with other developers, rebasing is not recommended, because the rebasing process will create inconsistent repositories.<br/>
+If the feature branch you are getting changes from is shared with other developers, merging is recommended, because the rebasing process will create inconsistent repositories.<br/>
 For individuals, rebasing makes a lot of sense.<br/>
 If you want to see the history completely same as it happened, you should use merge. Merge preserves history whereas rebase rewrites it.<br/>
 
