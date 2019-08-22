@@ -1,4 +1,4 @@
-## [Rebasing and merging](https://prayuja-teli.github.io/Blog/Git)     
+## [Rebasing and Merging](https://prayuja-teli.github.io/Blog/Git)     
 
 
 > ## Merging <br/>
