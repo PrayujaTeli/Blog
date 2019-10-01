@@ -44,12 +44,10 @@ argument2: Replacement value<br/>
 Eg:<br/>
 declare @x int=null;<br/>
  Select ISNULL(@x,'0') AS ISNULL_OUTPUT<br/>
- ***************************************************<br/>
- Output : <br/>
+#### Output : <br/>
    ISNULL_OUTPUT<br/>
        0<br/>
  --@x is null that is replaced with 0<br/>
- ***************************************************<br/>
 
 #### 3. COALESCE<br/>
 COALESCE ( arguments [1.......n ] )<br/>
