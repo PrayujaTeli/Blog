@@ -14,7 +14,7 @@ DATETIME - format: YYYY-MM-DD HH:MI:SS<br/>
 
 we have the following "Orders" table:<br/>
 
-|OrderId     |  ProductName  |  OrderDate  |    | 
+|OrderId     |  ProductName  |  OrderDate    | 
 | :------------- | :------------- | :------------- | 
 | 1 |   Geitost   |    2008-11-11   |
 | 2 |   Camembert Pierrot   | 2008-11-09      |
