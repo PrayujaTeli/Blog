@@ -14,22 +14,26 @@ Let's assume this table: create table mytable (a int, b int, c int, primary key 
 You can explicitly insert a NULL by using INSERT INTO mytable (a, b, c) values (1, NULL, 2);<br/>
 You can also omit the column in an INSERT using something like insert into mytable (a, c) values (1, 3);<br/>
 
+### Handling NULL:<br/>
 
-#### Handle null values with COUNT(*)<br/>
+#### 1.COUNT(*)<br/>
 Most aggregate functions eliminate null values in calculations; one exception is the COUNT function. When using the COUNT function against a column containing null values, the null values will be eliminated from the calculation. However, if the COUNT function uses an asterisk, it will calculate all rows regardless of null values being present.<br/>
 
 Eg:<br/>
 Table<br/>
-Column | 
-1 | 
-NULL|
+
+| Column       | 
+| :------------- | 
+| 1 |
+| NULL | 
+
 
 select count() from Table;<br/>
 => 1<br/>
 select count(*) from Table;<br/>
 => 2<br/>
 
-#### ISNULL<br/>
+#### 2. ISNULL<br/>
 
 The COALESCE and ISNULL T-SQL functions are used to return the first non-null expression among the input arguments. Both are used to handle the NULL value in T-SQL. ISNULL takes two arguments and COALESCE takes more than two arguments as required.<br/>
 
@@ -47,7 +51,7 @@ declare @x int=null;<br/>
  --@x is null that is replaced with 0<br/>
  ***************************************************<br/>
 
-COALESCE<br/>
+#### 3. COALESCE<br/>
 COALESCE ( arguments [1.......n ] )<br/>
 n: Arguments<br/>
 
@@ -63,7 +67,7 @@ n: Arguments<br/>
  --non-NULL argument as 20(a value of @z)<br/>
  ***************************************************<br/>
 
-#### NULLIF<br/>
+#### 4. NULLIF<br/>
 NULLIF takes two arguments and returns NULL if the arguments are NULL otherwise return the first argument.<br/>
 declare @x int=0;<br/>
 select NULLIF(@x,0) as Result -- return NULL if @x is 0<br/>
