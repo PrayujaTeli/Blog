@@ -59,22 +59,22 @@ n: Arguments<br/>
  declare @y int=null;<br/>
  declare @z int=20;<br/>
  COALESCE(@x,@y,@z,'0') as COALESE_OUTPUT<br/>
- ***************************************************<br/>
- Output : <br/>
+ 
+ #### Output : <br/>
    COALESE_OUTPUT<br/>
        20<br/>
  --First and second argument(@x and @y) are null so that COALESE return first<br/>
  --non-NULL argument as 20(a value of @z)<br/>
- ***************************************************<br/>
+ 
 
 #### 4. NULLIF<br/>
 NULLIF takes two arguments and returns NULL if the arguments are NULL otherwise return the first argument.<br/>
 declare @x int=0;<br/>
 select NULLIF(@x,0) as Result -- return NULL if @x is 0<br/>
-**************************************<br/>
-Output<br/>
+
+#### Output<br/>
 Result<br/>
 NULL<br/>
-**************************************<br/><br/><br/>
+<br/><br/><br/>
 
 Feel free to share the feedback.
