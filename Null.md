@@ -75,4 +75,6 @@ select NULLIF(@x,0) as Result -- return NULL if @x is 0<br/>
 Output<br/>
 Result<br/>
 NULL<br/>
-**************************************<br/>
+**************************************<br/><br/><br/>
+
+Feel free to share the feedback.
