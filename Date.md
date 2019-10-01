@@ -23,8 +23,8 @@ we have the following "Orders" table:<br/>
 
 
 Now we want to select the records with an OrderDate of "2008-11-11" from the table above.<br/>
-We use the following SELECT statement:<br/>
-SELECT * FROM Orders WHERE OrderDate='2008-11-11'<br/>
+We use the following SELECT statement:<br/><br/>
+#### SELECT * FROM Orders WHERE OrderDate='2008-11-11'<br/><br/>
 The result-set will look like this:<br/>
 
 |OrderId     |  ProductName  |  OrderDate    | 
@@ -46,7 +46,7 @@ An example of how to Insert a Date in MySQL manually<br/>
  
 An example of how to Insert a YEAR in MySQL using CURDATE<br/><br/>
 
-INSERT INTO phonebook (col_name, col_date) VALUE ('YEAR: Auto CURDATE()', CURDATE() )";<br/>
+#### INSERT INTO phonebook (col_name, col_date) VALUE ('YEAR: Auto CURDATE()', CURDATE() )";<br/>
 Set a date in MySQL using DATETIME<br/><br/>
 
 Using DATETIME you can store both the date and the time. Its format is YYYY-MM-DD HH:mm:SS. Using this statement you can store the output for both DATE and TIME statements. Also, you can choose to store the date information only, but you can't store just the time.<br/><br/>
