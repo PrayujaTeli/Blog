@@ -12,6 +12,9 @@ Feel free to explore.
 5. [TCP Protocol](https://Prayuja-Teli.github.io/Blog/TCP)
 6. [Rebasing and Merging in git](https://Prayuja-Teli.github.io/Blog/Git)
 7. [Difference between SQL, MySql and Oracle.](https://Prayuja-Teli.github.io/Blog/Database)
+7. [Dates handling in database.](https://Prayuja-Teli.github.io/Blog/Date)
+7. [NULL concept in database.](https://Prayuja-Teli.github.io/Blog/Null)
+7. [.](https://Prayuja-Teli.github.io/Blog/Properties)
 
 
 #### Feel free to share feedback.
