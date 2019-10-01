@@ -42,7 +42,6 @@ Also, you can run a query to set the date manually<br/>
 An example of how to Insert a Date in MySQL manually<br/>
 #### $query_manual = "INSERT INTO tablename (col_name, col_date) VALUES ('DATE: Manual Date', '2008-7-04')";<br/>
 
-
 ### Insert a date in MySQL using YEAR<br/>
  
 An example of how to Insert a YEAR in MySQL using CURDATE<br/><br/>
