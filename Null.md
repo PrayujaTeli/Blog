@@ -20,9 +20,9 @@ Most aggregate functions eliminate null values in calculations; one exception is
 
 Eg:<br/>
 Table<br/>
-||Column||
-|1|
-|NULL|
+Column | 
+1 | 
+NULL|
 
 select count() from Table;<br/>
 => 1<br/>
@@ -48,8 +48,6 @@ declare @x int=null;<br/>
  ***************************************************<br/>
 
 COALESCE<br/>
-
-       Syntax: <br/>
 COALESCE ( arguments [1.......n ] )<br/>
 n: Arguments<br/>
 
@@ -65,12 +63,12 @@ n: Arguments<br/>
  --non-NULL argument as 20(a value of @z)<br/>
  ***************************************************<br/>
 
-NULLIF
-NULLIF takes two arguments and returns NULL if the arguments are NULL otherwise return the first argument.
-declare @x int=0;
-select NULLIF(@x,0) as Result -- return NULL if @x is 0
-**************************************
-Output
-Result
-NULL
-**************************************
+#### NULLIF<br/>
+NULLIF takes two arguments and returns NULL if the arguments are NULL otherwise return the first argument.<br/>
+declare @x int=0;<br/>
+select NULLIF(@x,0) as Result -- return NULL if @x is 0<br/>
+**************************************<br/>
+Output<br/>
+Result<br/>
+NULL<br/>
+**************************************<br/>
