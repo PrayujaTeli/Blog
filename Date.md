@@ -29,7 +29,7 @@ The result-set will look like this:<br/>
 |OrderId     |  ProductName  |  OrderDate  | 
 | :------------- | :------------- | :------------- | 
 | 1 |   Geitost   |    2008-11-11   |
-| 3 |   Mozzarella di Giovanni  |   2008-11-11    |
+| 3 |   Mozzarella di Giovanni  |   2008-11-11   |
 
  
  
