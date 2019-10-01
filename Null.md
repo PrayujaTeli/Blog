@@ -44,6 +44,7 @@ argument2: Replacement value<br/>
 Eg:<br/>
 declare @x int=null;<br/>
  Select ISNULL(@x,'0') AS ISNULL_OUTPUT<br/>
+ 
 #### Output : <br/>
    ISNULL_OUTPUT<br/>
        0<br/>
@@ -63,7 +64,6 @@ n: Arguments<br/>
        20<br/>
  --First and second argument(@x and @y) are null so that COALESE return first<br/>
  --non-NULL argument as 20(a value of @z)<br/>
- 
 
 #### 4. NULLIF<br/>
 NULLIF takes two arguments and returns NULL if the arguments are NULL otherwise return the first argument.<br/>
