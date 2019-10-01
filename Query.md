@@ -33,5 +33,29 @@ ORA-00942: table or view does not exist <br/>
 
 #### 3. Shared Pool Check<br/>
 
+During the parse, the database performs a shared pool check to determine whether it can skip resource-intensive steps of statement processing.<br/>
+
+To this end, the database uses a hashing algorithm to generate a hash value for every SQL statement.<br/>
+When a user submits a SQL statement, the database searches the shared SQL area to see if an existing parsed statement has the same hash value. The hash value of a SQL statement is distinct from the following values:<br/>
+
+Memory address for the statement<br/>
+
+Hash value of an execution plan for the statement<br/>
+
+A SQL statement can have multiple plans in the shared pool. Typically, each plan has a different hash value. If the same SQL ID has multiple plan hash values, then the database knows that multiple plans exist for this SQL ID.<br/>
+
+
+Parse operations fall into the following categories, depending on the type of statement submitted and the result of the hash check:<br/>
+
+####  Hard parse<br/>
+
+If Oracle Database cannot reuse existing code, then it must build a new executable version of the application code. This operation is known as a hard parse, or a library cache miss.<br/>
+
+####  Soft parse<br/>
+
+A soft parse is any parse that is not a hard parse. If the submitted statement is the same as a reusable SQL statement in the shared pool, then Oracle Database reuses the existing code. This reuse of code is also called a library cache hit.<br/>
+
+Soft parses can vary in how much work they perform. For example, configuring the session shared SQL area can sometimes reduce the amount of latching in the soft parses, making them "softer."<br/><br/><br/>
+
 
 Feel free to share feedback.
