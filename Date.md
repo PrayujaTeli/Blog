@@ -51,9 +51,9 @@ Set a date in MySQL using DATETIME<br/><br/>
 
 Using DATETIME you can store both the date and the time. Its format is YYYY-MM-DD HH:mm:SS. Using this statement you can store the output for both DATE and TIME statements. Also, you can choose to store the date information only, but you can't store just the time.<br/><br/>
 
-An example of how to use DATETIME<br/><br/>
+An example of how to use DATETIME<br/>
 
-INSERT INTO phonebook (col_name, col_date) VALUE ('DATETIME: Auto CURDATE()', CURDATE() )";<br/><br/><br/><br/>
+#### INSERT INTO phonebook (col_name, col_date) VALUE ('DATETIME: Auto CURDATE()', CURDATE() )";<br/><br/><br/>
 
 
 Feel free to share feedback.
