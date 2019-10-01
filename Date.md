@@ -26,10 +26,11 @@ Now we want to select the records with an OrderDate of "2008-11-11" from the tab
 We use the following SELECT statement:<br/>
 SELECT * FROM Orders WHERE OrderDate='2008-11-11'<br/>
 The result-set will look like this:<br/>
-|OrderId     |  ProductName  |  OrderDate  | 
-| :------------- | :------------- | :------------- | 
+
+|OrderId     |  ProductName  |  OrderDate    | 
+| :------------- | :------------- | :------------- |
 | 1 |   Geitost   |    2008-11-11   |
-| 3 |   Mozzarella di Giovanni  |   2008-11-11   |
+| 3 |   Mozzarella di Giovanni  |   2008-11-11    |
 
  
  
