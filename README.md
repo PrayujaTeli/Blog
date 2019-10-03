@@ -15,7 +15,7 @@ Feel free to explore.
 8. [Dates handling in database.](https://Prayuja-Teli.github.io/Blog/Date)
 9. [NULL concept in database.](https://Prayuja-Teli.github.io/Blog/Null)
 10. [How database parse query?](https://Prayuja-Teli.github.io/Blog/Query)
-11. [Transactions and it's properties](https://Prayuja-Teli.github.io/Blog/transaction)
+11. [Transactions and it's properties](https://Prayuja-Teli.github.io/Blog/Properties)
 
 
 #### Feel free to share feedback.
