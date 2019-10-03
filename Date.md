@@ -20,7 +20,7 @@ TIME encoding for non-fractional part:<br/>
 10 bits hour   (0-838)<br/>
  6 bits minute (0-59) <br/>
  6 bits second (0-59) <br/>
----------------------
+Output:<br/>
 24 bits = 3 bytes<br/>
 
 DATETIME encoding for non-fractional part:<br/>
@@ -31,7 +31,7 @@ DATETIME encoding for non-fractional part:<br/>
  5 bits hour           (0-23)<br/>
  6 bits minute         (0-59)<br/>
  6 bits second         (0-59)<br/>
----------------------------
+Output:<br/>
 40 bits = 5 bytes<br/>
 
 
