@@ -18,14 +18,14 @@ Eg:
 
 create table New (a int, b int, c int, primary key (c));<br/>
 
-
 1. INSERT INTO New (a, b, c) values (1, NULL, 2);<br/>
 2. New (a, c) values (1, 3);<br/>
 
 ### Handling NULL:<br/>
 
 #### 1.COUNT(*)<br/>
-Most aggregate functions eliminate null values in calculations; one exception is the COUNT function. When using the COUNT function against a column containing null values, the null values will be eliminated from the calculation. However, if the COUNT function uses an asterisk, it will calculate all rows regardless of null values being present.<br/>
+
+The null values will be eliminated from the calculation. However, if the COUNT function uses an asterisk, it will calculate all rows regardless of null values being present.<br/>
 
 Eg:<br/>
 Table<br/>
