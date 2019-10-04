@@ -2,17 +2,25 @@
 
 ### Definition:<br/>
 
-In databases, a common problem is, how to represent missing values. In SQL Server, this is solved with NULL. It is used to signify missing or unknown values. NULL really isn’t a specific value, a non-existent value, not a zero value or not an empty string value. Two NULL values are not equal. Null (or NULL) is a special marker used in Structured Query Language to indicate that a data value does not exist in the database. <br/>
+In databases,how to represent missing values?
+In SQL Server, this is solved with NULL.
+It is used to signify missing or unknown values.
+NULL really isn’t a specific value.
+It is non-existent value, not a zero value or not an empty string value.
+Null (or NULL) is a special marker used in Structured Query Language to indicate that a data value does not exist in the database. <br/>
 
 
 ### Storage :<br/>
 
-There are two ways to store NULL.<br/>
+Two ways to store NULL.<br/>
 
-Let's assume this table: create table mytable (a int, b int, c int, primary key (c));<br/>
+Eg:
 
-You can explicitly insert a NULL by using INSERT INTO mytable (a, b, c) values (1, NULL, 2);<br/>
-You can also omit the column in an INSERT using something like insert into mytable (a, c) values (1, 3);<br/>
+create table New (a int, b int, c int, primary key (c));<br/>
+
+
+1. INSERT INTO New (a, b, c) values (1, NULL, 2);<br/>
+2. New (a, c) values (1, 3);<br/>
 
 ### Handling NULL:<br/>
 
