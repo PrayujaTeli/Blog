@@ -3,7 +3,7 @@
 
 ### Storage of dates in database:<br/>
 
-A common way of storing date/time is by converting it into a decimal value where the "date" is the integer portion of the decimal value, and the "time" is the fractional value. Internally dates are stored as 2 integers. The first integer is the number of dates before or after the base date (1900/01/01). The second integer stores the number of clock ticks after midnight, each tick is 1⁄300 of a second. So, September 20th, 2016 9:34:00 is stored as 42631.39861. 42631 is the number of days since .39861 is the portion of time elapsed since midnight. Storing the data in two separate columns means you'll need to combine both column values any time you want to see if a given point in time is earlier or later than the stored value. If you store the values separately, you'll invariably run into "bugs" that are difficult to detect.<br/>
+To store date and time is by converting it into a decimal value where the "date" is the integer portion of the decimal value, and the "time" is the fractional value. Internally dates are stored as 2 integers. The first integer is the number of dates before or after the base date (1900/01/01). The second integer stores the number of clock ticks after midnight, each tick is 1⁄300 of a second. So, September 20th, 2016 9:34:00 is stored as 42631.39861. 42631 is the number of days since .39861 is the portion of time elapsed since midnight. Storing the data in two separate columns means you'll need to combine both column values any time you want to see if a given point in time is earlier or later than the stored value. If you store the values separately, you'll invariably run into "bugs" that are difficult to detect.<br/>
 
 Different integers values like:<br/>
 
