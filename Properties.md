@@ -51,17 +51,13 @@ After the successful completion of a transaction, the changes in the database sh
 
 To save the changes. The COMMIT command is the transactional command used to save changes invoked by a transaction to the database. When we use any DML command like INSERT, UPDATE or DELETE, the changes made by these commands are not permanent, until the current session is closed, the changes made by these commands can be rolled back.To avoid that, we use the COMMIT command to mark the changes as permanent<br/>
 
-Following is commit command's syntax:  <br/>
-
-#### COMMIT;<br/>
+ #### Syntax:   COMMIT;<br/>
  
 #### 2. ROLLBACK<br/>
 
 The ROLLBACK command is the transactional command used to undo transactions that have not already been saved to the database. This command can only be used to undo transactions since the last COMMIT or ROLLBACK command was issued.<br/>
 
-Following is ROLLBACK command's syntax:  <br/>
-
-#### ROLLBACK;<br/>
+ #### Syntax:  ROLLBACK;<br/>
 
 #### 3. SAVEPOINT<br/>
 
@@ -69,8 +65,8 @@ Creates points within the groups of transactions in which to ROLLBACK. A SAVEPOI
 
 Following is SAVEPOINT command's syntax:  <br/>
 
+ #### Syntax:  SAVEPOINT SAVEPOINT_NAME;<br/><br/><br/>
 
-#### SAVEPOINT SAVEPOINT_NAME;<br/><br/><br/>
 
 Feel free to share feedback.
 
