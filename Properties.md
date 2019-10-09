@@ -5,7 +5,8 @@
 A transaction can be defined as a group of tasks. A single task is the minimum processing unit which cannot be divided further.<br/>
  
 #### SET TRANSACTION [ READ WRITE | READ ONLY ];<br/>
-Let’s take an example of a simple transaction. Suppose a bank employee transfers Rs 500 from A's account to B's account. 
+
+Suppose a bank employee transfers Rs 500 from A's account to B's account. 
 This very simple and small transaction involves several low-level tasks.<br/>
 
 A’s Account<br/>
@@ -26,24 +27,22 @@ Close_Account(B)<br/>
 
 #### 1. Atomicity:<br/>
 
-A transaction is a single unit of operation. You either execute it entirely or do not execute it at all. There cannot be partial execution. Otherwise, the transaction is aborted at the point of failure and all the previous operations are rolled back to their former state.<br/>
+A transaction is a single unit of operation. You either execute it entirely or do not execute it at all. No partial execution involved. else the transaction is aborted at the point of failure and all the previous operations are rolled back to their previous state.<br/>
 
 #### 2. Consistency:<br/>
 
-Once the transaction is executed, it should move from one consistent state to another.<br/>
+Once the transaction is executed, it should move from one consistent state to another.Transaction can not stay at one state.<br/>
 
 
 #### 3. Isolation:<br/>
 
-Isolation: Transaction should be executed in isolation from other transactions (no Locks). During concurrent transaction execution, intermediate transaction results from simultaneously executed transactions should not be made available to each other. (Level 0,1,2,3).<br/>
+Transaction should be executed in isolation from other transactions. During concurrent transaction execution, intermediate transaction results (in-between) from simultaneously executed transactions should not be made available to each other. Eg: (Level 0,1,2,3).<br/>
 
 
 
 #### 4. Durability:<br/>
 
 After the successful completion of a transaction, the changes in the database should persist. Even in the case of system failures.<br/>
-
-
 
 #### The following commands are used to control transactions.<br/>
 
