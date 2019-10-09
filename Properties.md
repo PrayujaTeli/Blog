@@ -78,7 +78,6 @@ A Rollback Segment is a database object containing before-images of data writt
 
 1. Ensure other transactions do not see uncommitted changes made to the database<br/>
 2. Rollback segments undo changes when a transaction is rolled back.<br/>
-3. They also ensure that transactions leave the uncommitted changes unnoticed.<br/>
 
 #### Syntax:<br/>
 
