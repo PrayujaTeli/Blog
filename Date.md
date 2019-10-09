@@ -11,17 +11,17 @@ To store date and time need to convert it into a decimal value where the "date" 
 DATE - format YYYY-MM-DD<br/>
 DATETIME - format: YYYY-MM-DD HH:MI:SS<br/>
 
-Eg:
+
 
 DATE: A three-byte integer packed as YYYY×16×32 + MM×32 + DD<br/>
 
-1997-01-01 <br/>
+Eg: 1997-01-01 <br/>
 
 1997×16×32 + 01×32 + 01 = 1022464 + 32 + 01 = 1022497
 
 TIME: A three-byte integer packed as DD×24×3600 + HH×3600 + MM×60 + SS<br/>
 
-10:00:00 <br/>
+Eg: 10:00:00 <br/>
 
 01×24×3600 + 10×3600 + 00×60 + 00 = 86400 + 3600 + 0 + 0 = 90000
 
