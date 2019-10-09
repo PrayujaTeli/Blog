@@ -17,17 +17,17 @@ DATE: A three-byte integer packed as YYYY×16×32 + MM×32 + DD<br/>
 
 Eg: 1997-01-01 <br/>
 
-1997×16×32 + 01×32 + 01 = 1022464 + 32 + 01 = 1022497
+Calculation: 1997×16×32 + 01×32 + 01 = 1022464 + 32 + 01 = 1022497
 
 TIME: A three-byte integer packed as DD×24×3600 + HH×3600 + MM×60 + SS<br/>
 
 Eg: 10:00:00 <br/>
 
-01×24×3600 + 10×3600 + 00×60 + 00 = 86400 + 3600 + 0 + 0 = 90000
+Calculation: 01×24×3600 + 10×3600 + 00×60 + 00 = 86400 + 3600 + 0 + 0 = 90000
 
 
 
-#### Eg in mysql database:<br/>
+#### Database structure and query:<br/>
 
 we have the following "Orders" table:<br/>
 
