@@ -9,7 +9,6 @@ A transaction can be defined as a group of tasks. A single task is the minimum p
 Suppose a bank employee transfers Rs 500 from A's account to B's account. 
 This very simple and small transaction involves several low-level tasks.<br/>
 
-
 A’s Account<br/>
 Open_Account(A)<br/>
 Old_Balance = A.balance<br/>
