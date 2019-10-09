@@ -38,7 +38,7 @@ Once the transaction is executed, it should move from one consistent state to an
 
 #### 3. Isolation:<br/>
 
-Transaction should be executed in isolation from other transactions. During concurrent transaction execution, intermediate transaction results (in-between) from simultaneously executed transactions should not be made available to each other. Eg: (Level 0,1,2,3).<br/>
+Transaction should be executed in isolation from other transactions. In a database system where more than one transaction are being executed simultaneously and in parallel, the property of isolation states that all the transactions will be carried out and executed as if it is the only transaction in the system.<br/>
 
 
 
