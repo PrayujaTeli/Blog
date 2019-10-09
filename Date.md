@@ -31,6 +31,7 @@ Calculation: 01×24×3600 + 10×3600 + 00×60 + 00 = 86400 + 3600 + 0 + 0 = 9000
 
 we have the following "Orders" table:<br/>
 
+
 |OrderId     |  ProductName  |  OrderDate    | 
 | :------------- | :------------- | :------------- | 
 | 1 |   Geitost   |    2008-11-11   |
