@@ -33,7 +33,7 @@ A transaction is a single unit of operation. You either execute it entirely or d
 #### 2. Consistency:<br/>
 
 
-Once the transaction is executed, it should move from one consistent state to another.Transaction can not stay at one state.<br/>
+Once the transaction is executed, it should move from one consistent state to another.Transaction can not stay at one state.In other words, the transaction cannot break the database’s constraints. For example, if a database table’s Phone Number column can only contain numerals, then consistency dictates that any transaction attempting to enter an alphabetical letter may not commit.<br/>
 
 
 #### 3. Isolation:<br/>
