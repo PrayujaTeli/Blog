@@ -32,6 +32,7 @@ A transaction is a single unit of operation. You either execute it entirely or d
 
 #### 2. Consistency:<br/>
 
+
 Once the transaction is executed, it should move from one consistent state to another.Transaction can not stay at one state.<br/>
 
 
