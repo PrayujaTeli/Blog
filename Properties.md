@@ -76,10 +76,9 @@ A Rollback Segment is a database object containing before-images of data writt
 
 #### The uses of the rollback segment is as follows:<br/>
 
-1. Undo changes when a transaction is rolled back.<br/>
-2. Ensure other transactions do not see uncommitted changes made to the database<br/>
-3. Rollback segments undo changes when a transaction is rolled back.<br/>
-4. They also ensure that transactions leave the uncommitted changes unnoticed.<br/>
+1. Ensure other transactions do not see uncommitted changes made to the database<br/>
+2. Rollback segments undo changes when a transaction is rolled back.<br/>
+3. They also ensure that transactions leave the uncommitted changes unnoticed.<br/>
 
 #### Syntax:<br/>
 
