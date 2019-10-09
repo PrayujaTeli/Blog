@@ -66,7 +66,28 @@ Creates points within the groups of transactions in which to ROLLBACK. A SAVEPOI
 
 Following is SAVEPOINT command's syntax:  <br/>
 
-#### Syntax:  SAVEPOINT SAVEPOINT_NAME;<br/><br/><br/>
+#### Syntax:  SAVEPOINT SAVEPOINT_NAME;<br/>
+
+### Rollback Segment
+
+
+#### Definition:  
+
+A Rollback Segment is a database object containing before-images of data written to the database.<br/>
+
+#### The uses of the rollback segment is as follows:<br/>
+
+1. Undo changes when a transaction is rolled back.<br/>
+2. Ensure other transactions do not see uncommitted changes made to the database<br/>
+3. Rollback segments undo changes when a transaction is rolled back.<br/>
+4. They also ensure that transactions leave the uncommitted changes unnoticed.<br/>
+
+#### Syntax:<br/>
+
+CREATE ROLLBACK SEGMENT SegementName TABLEName;<br/>
+ALTER ROLLBACK SEGMENT SegementName;<br/><br/><br/>
+
+
 
 
 Feel free to share feedback.
