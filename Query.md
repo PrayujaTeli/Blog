@@ -3,13 +3,16 @@
 
 ### Before Parsing 
 
-The query parsing probes are triggered before the original SQL statement is parsed and when the parsing of the statement and determination of the execution model required to process the statement has been completed:
+The query parsing probes are triggered before the original SQL statement is parsed.
 
-query-parse-start(query)
-query-parse-done(status)
-query-parse-start: Triggered just before the statement is parsed by the MySQL query parser. The single argument, query, is a string containing the full text of the original query.
 
-query-parse-done: Triggered when the parsing of the original statement has been completed. The status is an integer describing the status of the operation. A 0 indicates that the query was successfully parsed. A 1 indicates that the parsing of the query failed.
+query-parse-start: <br/>
+
+Triggered just before the statement is parsed by the MySQL query parser. The single argument, query, is a string containing the full text of the original query.
+
+query-parse-done:<br/>
+
+Triggered when the parsing of the original statement has been completed. The status is an integer describing the status of the operation. A 0 indicates that the query was successfully parsed. A 1 indicates that the parsing of the query failed.
 
 
 ### SQL Parsing:<br/>
