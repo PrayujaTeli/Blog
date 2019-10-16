@@ -21,6 +21,15 @@ The parsing stage involves separating the pieces of a SQL statement into a data 
 
 When an application issues a SQL statement, the application makes a parse call to the database to prepare the statement for execution. The parse call opens or creates a cursor, which is a handle for the session-specific private SQL area that holds a parsed SQL statement and other processing information. The cursor and private SQL area are in the program global area (PGA).<br/>
 
+
+
+The parsing of a query is performed within the database using the Optimizer component. The Optimizer evaluates many different attributes of the given query i.e. number of tables involved, whether we have indexes available or not, what kind of expressions are involved, etc. Taking all of these inputs into consideration, the Optimizer decides the best possible way to execute the query. This information is stored within the SGA in the Library Cache – a sub-pool within the Shared Pool.
+
+There are two possible states for a query’s processing information. One, that it can be found in the Library Cache and two, that it may not be found. The memory area within the Library Cache in which the information about a query’s processing is kept is called the Cursor. Thus if a reusable cursor is found within the library cache, it’s just a matter of picking it up and using it to execute the statement. This is called Soft Parsing. If it’s not possible to find a reusable cursor or if the query has never been executed before, query optimization is required. This is called Hard Parsing.
+
+
+
+
 During the parse call, the database performs the following checks:<br/>
 
 #### 1. Syntax Check<br/>
