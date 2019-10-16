@@ -29,7 +29,6 @@ There are two possible states for a query’s processing information. One, that 
 
 
 
-
 During the parse call, the database performs the following checks:<br/>
 
 #### 1. Syntax Check<br/>
