@@ -74,6 +74,8 @@ Parse operations fall into the following categories, depending on the type of st
 
 If Oracle Database cannot reuse existing code, then it must build a new executable version of the application code. This operation is known as a hard parse, or a library cache miss.<br/>
 
+Hard parsing means that either the cursor was not found in the library cache or it was found but was invalidated for some reason.
+
 ####  Soft parse<br/>
 
 A soft parse is any parse that is not a hard parse. If the submitted statement is the same as a reusable SQL statement in the shared pool, then Oracle Database reuses the existing code. This reuse of code is also called a library cache hit.<br/>
