@@ -39,7 +39,7 @@ Select * from Student cross join Student_Info;<br/>
 
 Output:
 
-|ID  | Name  | |  ID    | Address  |
+|ID  | Name  |  ID    | Address  |
 | :------------- | :------------- | :------------- | 
 | 1  | Alia     |    1   | Delhi |   
 | 2  | Shriya   |   3   | Mumbai
