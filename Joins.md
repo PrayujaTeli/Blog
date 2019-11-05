@@ -24,7 +24,7 @@ Table Student -
 | 2 | Shriya |
 
 
-    <br/>
+ Table Student_Info <br/>
     
     
     
@@ -40,26 +40,13 @@ Select * from Student cross join Student_Info;
 <br/>
 Output:
 
-|ID  | Name  |
+|ID  | Name  | |  ID    | Address  |
 | :------------- | :------------- | :------------- | 
-| 1  | Alia     |      
-| 2  | Shriya   |   
-| 1  |  Alia    |      
-| 2  | Shriya   |  
+| 1  | Alia     |    1   | Delhi |   
+| 2  | Shriya   |   3   | Mumbai
+| 1  |  Alia    |      1   | Delhi |
+| 2  | Shriya   |  3  | Mumbai |
 
-
-
-<br/>
-
-
-
-|  ID    | Address  |
-| :------------- | :------------- | :------------- | 
- |1   | Delhi |
- |3   | Mumbai |
- |1   | Delhi |
- | 3  | Mumbai |
- 
  
  
  <br/><br/><br/><br/>
