@@ -92,7 +92,7 @@ Table Class_Info
 SELECT * from class INNER JOIN class_info where class.id = class_info.id;<br/>
 
 Output:<br/>
-<br/>
+
 | Id | Name |  Age |
 | :------------- | :------------- | :------------- | 
 | 1 | Shanaya | 10 |
