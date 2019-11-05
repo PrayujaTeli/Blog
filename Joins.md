@@ -34,10 +34,9 @@ Table Student -
 |3 | Mumbai  |
 
 
-<br/>
 Query - 
-Select * from Student cross join Student_Info;
-<br/>
+Select * from Student cross join Student_Info;<br/>
+
 Output:
 
 |ID  | Name  | |  ID    | Address  |
