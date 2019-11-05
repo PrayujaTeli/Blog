@@ -13,7 +13,7 @@ It is done using joins.<br/>
 
 ### Types of Join?<br/>
 
-#### 1. Cross Join/Cartesian
+#### Cross Join/Cartesian
 
 Here two tables are crossed with each other.<br/>
 
@@ -68,11 +68,12 @@ Eg: <br/>
 Select a.column_Name, b.column_Name from table_name1 a join table_name2 b on a.column_Name = b.column_Name ;<br/>
 
 
-* (INNER) JOIN: (Default join)Returns records that have matching values in both tables. <br/>
+### (INNER) JOIN:(Default join)<br/>
+Returns records that have matching values in both tables. <br/>
 
 OR<br/>
 
-* Equi join - We special use “=“ in where condition;<br/>
+### Equi join - We special use “=“ in where condition;<br/>
 
 Table Class 
 
@@ -96,11 +97,71 @@ Output:<br/>
 | :------------- | :------------- | :------------- | 
 | 1 | Shanaya | 10 |
 
- 
- 
- 
- 
- 
+### LEFT (OUTER) JOIN:<br/>
+
+Returns all records from the left table, and the matched records from the right table
+All rows from left table and matched rows only from right <br/>
+
+
+### RIGHT (OUTER) JOIN:<br/>
+
+Returns all records from the right table, and the matched records from the left table
+All rows from right table and matched rows only from left <br/>
+
+### FULL (OUTER) JOIN:<br/>
+
+Returns all records when there is a match in either left or right table
+All rows from right and left table;<br/>
+
+
+### Self Join:<br/>
+
+A self JOIN is a regular join, but the table is joined with itself.<br/>
+
+Table Student<br/>
+
+| S_ID | C_ID |   
+| :------------- | :------------- | :------------- | 
+| S1   |   C1  |
+| S2   |   C2  |  
+| S1   |   C2  |
+
+Query :<br/>
+select  * from student a , student b  from where  a S_ID = b. S_ID && a C_ID <> b C_ID;<br/>
+
+### Joined Self<br/>
+
+|S_ID | C_ID |
+| :------------- | :------------- | :------------- | 
+
+| S1   |   C1 |
+| S2   |   C2 |
+| S1   |   C2 |
+
+### Cross product:<br/>
+|S_ID | C_ID | S_ID | C_ID |
+| :------------- | :------------- | :------------- | 
+
+  |S1       | C1        |   		     S1       | C1    |       
+  |S1       | C1                  |        S2    |    C2  |
+  |S1       | C1                    |      S1      |  C2  |
+  |S2       | C2 		        |       S1    |    C1  |
+  |S2       | C2 			     |  S2     |   C2  |
+  |S2      |  C2 		              | S1     |   C2  |
+  |S1      |  C2 			    |   S1     |   C1  |
+  |S1    |    C2 		               |S2       | C2  |
+  |S1    |    C2			    |   S1     |   C2  |
+
+Output<br/>
+
+|S_ID | C_ID | S_ID | C_ID |
+| :------------- | :------------- | :------------- | 
+
+  |S1     |   C1    |                      S1      |  C2  |
+
+  |S1    |    C2 		  |	     S1    |    C1  |
+
+
  
  <br/><br/><br/><br/>
  
