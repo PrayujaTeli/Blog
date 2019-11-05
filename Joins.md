@@ -10,48 +10,6 @@ Join create relation based on the related or matching column between the tables.
 Have you ever thought how to extract value from two or three different tables collectively? 
 It is done using joins.<br/>
 
-
-### Types of Join?<br/>
-
-#### Cross Join/Cartesian
-
-Here two tables are crossed with each other.<br/>
-
-Eg:<br/>
-
-Table Student -		
-
-| ID | Name |
-| :------------- | :------------- | :------------- | 
-| 1 | Alia |
-| 2 | Shriya |
-
-
- Table Student_Info <br/>
-   
-| Student_Info- ID | Address |
-| :------------- | :------------- | :------------- | 
-|1 | Delhi  |
-|3 | Mumbai  |
-
-
-Query - <br/>
-
-Select * from Student cross join Student_Info;<br/>
-
-Output:<br/>
-
-|ID  | Name  |  ID    | Address  |
-| :------------- | :------------- | :------------- | 
-| 1  | Alia     |    1   | Delhi |   
-| 2  | Shriya   |   3   | Mumbai |
-| 1  |  Alia    |      1   | Delhi |
-| 2  | Shriya   |  3  | Mumbai |
-
-###  Issue:
-
-When multiple or huge amount of data is provided Cartesian product is not flexible solution.<br/>
-
 ### Basic Syntax:<br/>
 
 #### Syntax for joining any two tables :<br/>
@@ -67,6 +25,46 @@ Here we can use aliases to represent column name rather than using complete colu
 Eg: <br/>
 Select a.column_Name, b.column_Name from table_name1 a join table_name2 b on a.column_Name = b.column_Name ;<br/>
 
+### Types of Join?<br/>
+
+#### Cross Join/Cartesian
+
+Here two tables are crossed with each other.<br/>
+
+Eg:<br/>
+
+Table Student -		
+
+| ID | Name |
+| :------------- | :------------- | 
+| 1 | Alia |
+| 2 | Shriya |
+
+
+ Table Student_Info <br/>
+   
+| Student_Info- ID | Address |
+| :------------- | :------------- |
+|1 | Delhi  |
+|3 | Mumbai  |
+
+
+Query - <br/>
+
+Select * from Student cross join Student_Info;<br/>
+
+Output:<br/>
+
+|ID  | Name  |  ID    | Address  |
+| :------------- | :------------- | :------------- | :------------- 
+| 1  | Alia     |    1   | Delhi |   
+| 2  | Shriya   |   3   | Mumbai |
+| 1  |  Alia    |      1   | Delhi |
+| 2  | Shriya   |  3  | Mumbai |
+
+###  Issue:
+
+When multiple or huge amount of data is provided Cartesian product is not flexible solution.<br/>
 
 ### (INNER) JOIN:(Default join)<br/>
 Returns records that have matching values in both tables. <br/>
@@ -78,14 +76,14 @@ OR<br/>
 Table Class 
 
 |id | Name |
-| :------------- | :------------- | :------------- | 
+| :------------- | :------------- | 
 | 1 |  Shanaya | 
 | 2 |  Ramesh | 
 
 Table Class_Info
 
 | id | Age |
-| :------------- | :------------- | :------------- | 
+| :------------- | :------------- | 
 |1 | 10 |
 | 3 | 9 |
 
