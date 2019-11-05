@@ -138,17 +138,15 @@ select  * from student a , student b  from where  a S_ID = b. S_ID && a C_ID <> 
 
 ### Joined Self<br/>
 
-|S_ID | C_ID |
-
-| :------------- | :------------- |  
-
+| S_ID | C_ID |
+| :------------- | :------------- | 
 | S1   |   C1 |
 | S2   |   C2 |
 | S1   |   C2 |
 
 ### Cross product:<br/>
 
-|S_ID | C_ID | S_ID | C_ID |
+| S_ID | C_ID | S_ID | C_ID |
 
 | :------------- | :------------- | :------------- | :------------- |
 
@@ -164,7 +162,7 @@ select  * from student a , student b  from where  a S_ID = b. S_ID && a C_ID <> 
 
 Output<br/>
 
-|S_ID | C_ID | S_ID | C_ID |
+| S_ID | C_ID | S_ID | C_ID |
 
 | :------------- | :------------- | :------------- | :------------- |
 
