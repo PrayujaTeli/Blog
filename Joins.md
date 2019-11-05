@@ -137,6 +137,8 @@ select  * from student a , student b  from where  a S_ID = b. S_ID && a C_ID <> 
 
 ### Joined Self<br/>
 
+Table Student<br/>
+
 | S_ID | C_ID |   
 | :------------- | :------------- |
 | S1   |   C1  |
@@ -144,6 +146,9 @@ select  * from student a , student b  from where  a S_ID = b. S_ID && a C_ID <> 
 | S1   |   C2  |
 
 ### Cross product:<br/>
+
+Cartesian product<br/>
+
 
 | S_ID | C_ID | S_ID | C_ID |
 | :------------- | :------------- | :------------- | :------------- |
