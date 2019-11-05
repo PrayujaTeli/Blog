@@ -22,11 +22,18 @@ Table Student -
 | :------------- | :------------- | :------------- | 
 | 1 | Alia |
 | 2 | Shriya |
+
+
     <br/>
+    
+    
+    
 | Student_Info- ID | Address |
 | :------------- | :------------- | :------------- | 
 |1 | Delhi  |
 |3 | Mumbai  |
+
+
 <br/>
 Query - 
 Select * from Student cross join Student_Info;
@@ -39,7 +46,13 @@ Output:
 | 2  | Shriya   |   
 | 1  |  Alia    |      
 | 2  | Shriya   |  
+
+
+
 <br/>
+
+
+
 |  ID    | Address  |
 | :------------- | :------------- | :------------- | 
  |1   | Delhi |
