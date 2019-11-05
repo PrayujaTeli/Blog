@@ -13,7 +13,7 @@ It is done using joins.<br/>
 
 ### Types of Join?<br/>
 
-Here two tables are crossed with each other .
+Here two tables are crossed with each other .<br/>
 
 Eg:
 Table Student -		
@@ -22,15 +22,15 @@ Table Student -
 | :------------- | :------------- | :------------- | 
 | 1 | Alia |
 | 2 | Shriya |
-    
+    <br/>
 | Student_Info- ID | Address |
 | :------------- | :------------- | :------------- | 
 |1 | Delhi  |
 |3 | Mumbai  |
-
+<br/>
 Query - 
 Select * from Student cross join Student_Info;
-
+<br/>
 Output:
 
 |ID  | Name  |
@@ -39,7 +39,7 @@ Output:
 | 2  | Shriya   |   
 | 1  |  Alia    |      
 | 2  | Shriya   |  
-
+<br/>
 |  ID    | Address  |
 | :------------- | :------------- | :------------- | 
  |1   | Delhi |
@@ -47,6 +47,9 @@ Output:
  |1   | Delhi |
  | 3  | Mumbai |
  
+ 
+ 
+ <br/><br/><br/><br/>
  
  
  Feel free to share feedback.
