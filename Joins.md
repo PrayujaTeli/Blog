@@ -1,4 +1,4 @@
-## [Joins in Database.](https://prayuja-teli.github.io/Blog/Joins)<br/>    
+## [Joins in Database](https://prayuja-teli.github.io/Blog/Joins)<br/>    
 
 ### What is join?<br/>
 
@@ -56,7 +56,7 @@ Select * from Student cross join Student_Info;<br/>
 Output:<br/>
 
 |ID  | Name  |  ID    | Address  |
-| :------------- | :------------- | :------------- | :------------- 
+| :------------- | :------------- | :------------- | :------------- |
 | 1  | Alia     |    1   | Delhi |   
 | 2  | Shriya   |   3   | Mumbai |
 | 1  |  Alia    |      1   | Delhi |
@@ -127,6 +127,7 @@ A self JOIN is a regular join, but the table is joined with itself.<br/>
 Table Student<br/>
 
 | S_ID | C_ID |   
+
 | :------------- | :------------- |
 | S1   |   C1  |
 | S2   |   C2  |  
@@ -138,6 +139,7 @@ select  * from student a , student b  from where  a S_ID = b. S_ID && a C_ID <> 
 ### Joined Self<br/>
 
 |S_ID | C_ID |
+
 | :------------- | :------------- |  
 
 | S1   |   C1 |
@@ -147,21 +149,23 @@ select  * from student a , student b  from where  a S_ID = b. S_ID && a C_ID <> 
 ### Cross product:<br/>
 
 |S_ID | C_ID | S_ID | C_ID |
+
 | :------------- | :------------- | :------------- | :------------- |
 
   |S1       | C1        |   		     S1       | C1    |       
-  |S1       | C1                  |        S2    |    C2  |
-  |S1       | C1                    |      S1      |  C2  |
-  |S2       | C2 		        |       S1    |    C1  |
-  |S2       | C2 			     |  S2     |   C2  |
-  |S2      |  C2 		              | S1     |   C2  |
+  |S1       | C1        |        S2    |    C2  |
+  |S1       | C1        |      S1      |  C2  |
+  |S2       | C2 		     |       S1    |    C1  |
+  |S2       | C2 			    |  S2     |   C2  |
+  |S2      |  C2 		     | S1     |   C2  |
   |S1      |  C2 			    |   S1     |   C1  |
-  |S1    |    C2 		               |S2       | C2  |
-  |S1    |    C2			    |   S1     |   C2  |
+  |S1    |    C2 		     | S2       | C2  |
+  |S1    |    C2			     |   S1     |   C2  |
 
 Output<br/>
 
 |S_ID | C_ID | S_ID | C_ID |
+
 | :------------- | :------------- | :------------- | :------------- |
 
   |S1     |   C1    |                      S1      |  C2  |
