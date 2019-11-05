@@ -69,7 +69,7 @@ When multiple or huge amount of data is provided Cartesian product is not flexib
 ### (INNER) JOIN:(Default join)<br/>
 Returns records that have matching values in both tables. <br/>
 
-OR<br/>
+OR <br/>
 
 ### Equi join - We special use “=“ in where condition;<br/>
 
