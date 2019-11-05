@@ -145,7 +145,7 @@ Table Student<br/>
 | S2   |   C2  |  
 | S1   |   C2  |
 
-### Cross product:<br/>
+### Cross product:<br/> 
 
 Cartesian product<br/>
 
