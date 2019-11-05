@@ -84,7 +84,7 @@ Table Class_Info
 
 | id | Age |
 | :------------- | :------------- | 
-|1 | 10 |
+| 1 | 10 |
 | 3 | 9 |
 
 SELECT * from class INNER JOIN class_info where class.id = class_info.id;<br/>
@@ -147,28 +147,23 @@ select  * from student a , student b  from where  a S_ID = b. S_ID && a C_ID <> 
 ### Cross product:<br/>
 
 | S_ID | C_ID | S_ID | C_ID |
-
 | :------------- | :------------- | :------------- | :------------- |
-
-  |S1       | C1        |   		     S1       | C1    |       
-  |S1       | C1        |        S2    |    C2  |
-  |S1       | C1        |      S1      |  C2  |
-  |S2       | C2 		     |       S1    |    C1  |
-  |S2       | C2 			    |  S2     |   C2  |
-  |S2      |  C2 		     | S1     |   C2  |
-  |S1      |  C2 			    |   S1     |   C1  |
-  |S1    |    C2 		     | S2       | C2  |
-  |S1    |    C2			     |   S1     |   C2  |
+|S1       | C1        |   	S1       | C1     |       
+|S1       | C1        |       S2    |    C2  |
+|S1       | C1        |     S1      |  C2    |
+|S2       | C2 		     |       S1    |    C1  |
+|S2       | C2 			    |      S2     |   C2   |
+|S2       |  C2 		    |      S1     |   C2   |
+|S1       |  C2 			   |      S1     |   C1   |
+|S1       |    C2 		  |    S2       | C2     |
+|S1       |    C2			  |      S1     |   C2   |
 
 Output<br/>
 
 | S_ID | C_ID | S_ID | C_ID |
-
 | :------------- | :------------- | :------------- | :------------- |
-
-  |S1     |   C1    |                      S1      |  C2  |
-
-  |S1    |    C2 		  |	     S1    |    C1  |
+|S1    |   C1    |     S1     |  C2  |
+|S1    |    C2 		|	     S1    |  C1  |
 
 
 
