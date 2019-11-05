@@ -33,7 +33,7 @@ Here two tables are crossed with each other.<br/>
 
 Eg:<br/>
 
-Table Student -		
+Table Student<br/>
 
 | ID | Name |
 | :------------- | :------------- | 
@@ -41,7 +41,7 @@ Table Student -
 | 2 | Shriya |
 
 
- Table Student_Info <br/>
+ Table Student_Info<br/>
    
 | Student_Info- ID | Address |
 | :------------- | :------------- |
@@ -127,7 +127,6 @@ A self JOIN is a regular join, but the table is joined with itself.<br/>
 Table Student<br/>
 
 | S_ID | C_ID |   
-
 | :------------- | :------------- |
 | S1   |   C1  |
 | S2   |   C2  |  
@@ -137,6 +136,7 @@ Query :<br/>
 select  * from student a , student b  from where  a S_ID = b. S_ID && a C_ID <> b C_ID;<br/>
 
 ### Joined Self<br/>
+
 | S_ID | C_ID |   
 | :------------- | :------------- |
 | S1   |   C1  |
