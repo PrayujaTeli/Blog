@@ -97,6 +97,14 @@ Output:<br/>
 | :------------- | :------------- | :------------- | 
 | 1 | Shanaya | 10 |
 
+### Theta join:<br/>
+
+They have tuples from different relations if and only if they satisfy the theta condition.<br/>
+
+### Natural join:<br/>
+
+At least one similar column needed in both tables.
+
 ### LEFT (OUTER) JOIN:<br/>
 
 Returns all records from the left table, and the matched records from the right table
