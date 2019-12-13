@@ -17,6 +17,7 @@ Feel free to explore.
 10. [How database parse query?](https://Prayuja-Teli.github.io/Blog/Query)
 11. [Transactions and it's properties](https://Prayuja-Teli.github.io/Blog/Properties)
 12. [Joins in Database.](https://Prayuja-Teli.github.io/Blog/Joins)
+13. [Biobanking Can Boost Scientific Productivity.](https://Prayuja-Teli.github.io/Blog/Biobank)
 
 
 #### Feel free to share feedback.
