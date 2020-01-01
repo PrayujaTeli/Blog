@@ -18,7 +18,7 @@ Feel free to explore.
 11. [Transactions and it's properties](https://Prayuja-Teli.github.io/Blog/Properties)
 12. [Joins in Database.](https://Prayuja-Teli.github.io/Blog/Joins)
 13. [Biobanking - “You build for the future".](https://Prayuja-Teli.github.io/Blog/Biobank)
-14. [Biobank is changing world.](https://Prayuja-Teli.github.io/Blog/Biobanking)
+14. [Biobank is changing world.](https://Prayuja-Teli.github.io/Blog/BioBanking)
 
 
 
