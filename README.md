@@ -19,6 +19,8 @@ Feel free to explore.
 12. [Joins in Database.](https://Prayuja-Teli.github.io/Blog/Joins)
 13. [Biobanking - “You build for the future".](https://Prayuja-Teli.github.io/Blog/Biobank)
 14. [Biobanking Software: Cloud-Based LIMS System.](https://Prayuja-Teli.github.io/Blog/BioBanking)
+15. [Parts of speech](https://Prayuja-Teli.github.io/Blog/Speech)
+
 
 
 
