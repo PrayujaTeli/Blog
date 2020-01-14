@@ -21,17 +21,17 @@ Adverbs are used to describe words, but the difference is that adverbs describe 
 
 ### 5. Pronoun - <br/> 
 A pronoun is a word used in place of a noun.<br/>
-Eg: words like - I, it, he, she, mine, his, hers, we, they, theirs, and ours are pronoun.
+Eg: words like - I, it, he, she, mine, his, hers, we, they, theirs, and ours are pronoun.<br/>
 'Mayra is a stubborn child. She keeps on nagging'. In the second sentence 'She' is a pronoun that replaces the name Mayra in the first sentence.<br/>
 
 ### 6. Preposition - <br/>    
 This part of a speech basically refers to words that specify a location or a location in time.
-Eg: above, below, throughout, outside, before, near, and since
+Eg: above, below, throughout, outside, before, near, and since<br/>
 ‘Siya is hiding under the bed’. In this sentence ‘under’ is the preposition.<br/>
 
 ### 7. Conjunction - <br/>    
 The conjunction is a part of a speech that joins words, phrases, or clauses together.<br/>
-Eg:  and, yet, but, for, nor, or. 
+Eg:  and, yet, but, for, nor, or. <br/>
 ‘Ramya is a kind and poor girl. In this sentence ‘and’ is a conjunction.<br/>
 
 ### 8. Interjection - <br/>    
