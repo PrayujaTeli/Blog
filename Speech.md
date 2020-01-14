@@ -1,7 +1,8 @@
 ## [Parts of speech (POS).](https://prayuja-teli.github.io/Blog/Speech)<br/>    
 
 ### Definition:<br/> 
-The parts of speech are a word with similar grammatical properties which means they play similar roles within the grammatical structure of sentences. It is a way to describe the function of words in the English language.<br/>
+The parts of speech are a word with similar grammatical properties which means they play similar roles within the grammatical structure of sentences.<br/>
+It is a way to describe the function of words in the English language.<br/>
 The 8 parts of speech are: noun, verb, adjective, adverb, pronoun, preposition, conjunction, and interjection.<br/> 
 
 ### 1. Noun - <br/> 
