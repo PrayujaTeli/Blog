@@ -11,13 +11,14 @@ Eg: 'Rihana is a great singer'. In this sentence, Rihana is a noun.<br/>
 
 ### 2. Verb - <br/>    
 The verb is a word that shows an action or state of being of the subject in a sentence.<br/>
-
+Eg: 'James is throwing the football'.In this sentence the 'throwing' word is verb.<br/>
 ### 3. Adjective - <br/>    
 The adjective is used to describe a noun or a pronoun.<br/>
 Eg: ‘I have two dogs at hometown’. In this sentence, two is adjective which describes a number of dogs.<br/>
 
 ### 4. Adverb - <br/>    
 Adverbs are used to describe words, but the difference is that adverbs describe adjectives, verbs, or another adverb.<br/>
+Eg:'The manager accepted the challenge very nicely'.The word 'nicely' is adverb in this sentence.<br/>
 
 ### 5. Pronoun - <br/> 
 A pronoun is a word used in place of a noun.<br/>
@@ -25,8 +26,8 @@ Eg: words like - I, it, he, she, mine, his, hers, we, they, theirs, and ours are
 'Mayra is a stubborn child. She keeps on nagging'. In the second sentence 'She' is a pronoun that replaces the name Mayra in the first sentence.<br/>
 
 ### 6. Preposition - <br/>    
-This part of a speech basically refers to words that specify a location or a location in time.
-Eg: above, below, throughout, outside, before, near, and since<br/>
+This part of a speech basically refers to words that specify a location or a location in time.<br/>
+Eg: above, below, throughout, outside, before, near, and since.<br/>
 ‘Siya is hiding under the bed’. In this sentence ‘under’ is the preposition.<br/>
 
 ### 7. Conjunction - <br/>    
