@@ -39,7 +39,6 @@ Eg:  and, yet, but, for, nor, or. <br/>
 This part of a speech refers to words that express emotions.<br/>
 Eg: Ouch! That must have hurt.<br/><br/><br/><br/><br/>
 
-
 ### Feel free to share feedback.
 
 
