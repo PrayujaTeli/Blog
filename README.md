@@ -21,7 +21,7 @@ Feel free to explore.
 14. [Biobanking Software: Cloud-Based LIMS System.](https://Prayuja-Teli.github.io/Blog/BioBanking)
 15. [Parts of speech](https://Prayuja-Teli.github.io/Blog/Speech)
 16. [Present Tense](https://Prayuja-Teli.github.io/Blog/PresentTense)
-
+17. [How to Build Good Habits and Break Bad Ones?](https://Prayuja-Teli.github.io/Blog/Habits)
 
 
 
