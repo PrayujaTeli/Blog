@@ -16,7 +16,7 @@ The present continuous is a combination of the present tense with the continuous
 Present continuous is a verb tense which is used to show that an ongoing action is happening now, either at the moment later.<br/>
 Eg: I have worked<br/>
 ### Present Perfect Continuous(perfect progressive) - <br/>
-The present perfect continuous is a verb tense which shows that any action started in the past and has continued to the present moment.
+The present perfect continuous is a verb tense which shows that any action started in the past and has continued to the present moment.<br/>
 Eg: I have been working<br/><br/><br/><br/>
 
 Feel free to share feedback.
