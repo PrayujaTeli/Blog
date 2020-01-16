@@ -22,7 +22,7 @@ Feel free to explore.
 15. [Parts of speech](https://Prayuja-Teli.github.io/Blog/Speech)
 16. [Present Tense](https://Prayuja-Teli.github.io/Blog/PresentTense)
 17. [How to Build Good Habits and Break Bad Ones?](https://Prayuja-Teli.github.io/Blog/Habits)
-
+18. [Past Tense](https://Prayuja-Teli.github.io/Blog/PastTense)
 
 
 #### Feel free to share feedback.
