@@ -21,7 +21,7 @@ Eg: Jane will have traveled the world by the time she turns 30.<br/>
 
 ### 4. Future Perfect Continuous: <br/>
 The future perfect continuous describes events and/or actions that have been going on continuously until a certain time in the future. Often, it’s used to show cause and effect; in other words, because one thing will have been happening, another will happen. To use it, we need to combine have and be with the continuous form of the verb (ending in ing), this shows that the action or event “will have been” happening.<br/>
-Eg: I should have been watering the plants every day; I hope they won’t die.<br/><br/><br/><br/><br/>
+Eg: I should have been watering the plants every day; I hope they won’t die.<br/><br/><br/><br/><br/><br/>
 
 Feel free to share feedback.
  
