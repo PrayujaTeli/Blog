@@ -24,7 +24,7 @@ Feel free to explore.
 17. [How to Build Good Habits and Break Bad Ones?](https://Prayuja-Teli.github.io/Blog/Habits)
 18. [Past Tense](https://Prayuja-Teli.github.io/Blog/PastTense)
 19. [Future Tense](https://Prayuja-Teli.github.io/Blog/FutureTense)
-20. [Modal and imperative](https://Prayuja-Teli.github.io/Blog/Modal and imperative)
+20. [Modal and imperative](https://Prayuja-Teli.github.io/Blog/Modalandimperative)
 21. [Passive Voice](https://Prayuja-Teli.github.io/Blog/PassiveVoice)
 
 
