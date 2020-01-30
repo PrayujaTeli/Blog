@@ -1,14 +1,12 @@
-[Passive Voice](https://Prayuja-Teli.github.io/Blog/PassiveVoice)
 
-### Definition<br/>
+### [Passive Voice](https://Prayuja-Teli.github.io/Blog/PassiveVoice)<br/>
+
 The passive voice is used when we want to emphasize the action (the verb) and the object of a sentence rather than subject.<br/>
 
 Eg: <br/>
 
-Active Voice-
-Harry ate six shrimp at dinner.<br/>
-Passive Voice-
-At dinner, six shrimp were eaten by Harry.<br/>
+Active Voice- Harry ate six shrimp at dinner.<br/>
+Passive Voice- At dinner, six shrimp were eaten by Harry.<br/>
 
 ### Distinction between passive voice and participial adjective<br/>
 
