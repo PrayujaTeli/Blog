@@ -5,10 +5,9 @@ The passive voice is used when we want to emphasize the action (the verb) and th
 
 Eg: <br/>
 
-### Active Voice<br/>
+Active Voice<br/>
 Harry ate six shrimp at dinner.<br/>
-
-### Passive Voice<br/>
+Passive Voice<br/>
 At dinner, six shrimp were eaten by Harry.<br/>
 
 ### Distinction between passive voice and participial adjective<br/>
