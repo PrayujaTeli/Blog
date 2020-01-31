@@ -1,6 +1,6 @@
 [Modal and imperative](https://Prayuja-Teli.github.io/Blog/Modalandimperative)<br/>
 
-### Definition
+### Definition<br/>
 The imperative is a separate verb form and carries at least some unique sentence forms.<br/>
 The imperative is a small class of auxiliary verbs.<br/>
 The imperative sentence is used for properties such as possibility, obligation, etc.<br/>
