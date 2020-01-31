@@ -26,6 +26,7 @@ Feel free to explore.
 19. [Future Tense](https://Prayuja-Teli.github.io/Blog/FutureTense)
 20. [Modal and imperative](https://Prayuja-Teli.github.io/Blog/Modalandimperative)
 21. [Passive Voice](https://Prayuja-Teli.github.io/Blog/PassiveVoice)
+22. [Adjective and Adverb](https://Prayuja-Teli.github.io/Blog/AdjectiveAndAdverbs)
 
 
 #### Feel free to share feedback.
