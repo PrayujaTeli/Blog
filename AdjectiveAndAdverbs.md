@@ -2,17 +2,13 @@
  
 ### Adjective<br/>
 
-### Definition: <br/>
-
-A word belonging to one of the major form classes in any of numerous languages and typically serving as a modifier of a noun to denote a quality of the thing named, to indicate its quantity or extent, or to specify a thing as distinct from something else.<br/>
+Definition: A word belonging to one of the major form classes in any of numerous languages and typically serving as a modifier of a noun to denote a quality of the thing named, to indicate its quantity or extent, or to specify a thing as distinct from something else.<br/>
 
 Eg: Red, Quick, Happy, and Obnoxious are adjectives because they can describe things.<br/>
 
 ### Adverb<br/>
 
-### Definition: <br/>
-
-An adverb is a word or an expression that modifies a verb, adjective, determiner, clause, preposition, or sentence. <br/>
+Definition: An adverb is a word or an expression that modifies a verb, adjective, determiner, clause, preposition, or sentence. <br/>
 
 ### Difference between an adjective and adverb<br/>
 
