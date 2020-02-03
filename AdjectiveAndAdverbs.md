@@ -10,6 +10,8 @@ Eg: Red, Quick, Happy, and Obnoxious are adjectives because they can describe th
 
 Definition: An adverb is a word or an expression that modifies a verb, adjective, determiner, clause, preposition, or sentence. <br/>
 
+Eg: Slowly, Rapidly, Clumsily, Badly are adverbs.<br/>
+
 ### Difference between an adjective and adverb<br/>
 
  | Statements | Adjective | Adverb |
