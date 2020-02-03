@@ -20,8 +20,7 @@ An adverb is a word or an expression that modifies a verb, adjective, determiner
 | :------------- | :------------- |  :------------- |
 | What it does?  | Qualifies a noun or pronoun | Modifies a verb, adjective, preposition or conjunction. |
 | Questions| What kind, which and how many. | How, when, where, how often, to what extent and how much.|
-| Example | Beautifully is an adverb that describes a verb.  | Beautiful is an adjective that describes a noun.  |
-
+| Example | Beautifully is an adverb that describes a verb.  | Beautiful is an adjective that describes a noun. |
 
 
 <br/><br/><br/>Feel free to share feedback
