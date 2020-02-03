@@ -20,5 +20,4 @@ Eg: Slowly, Rapidly, Clumsily, Badly are adverbs.<br/>
 | Questions| What kind, which and how many. | How, when, where, how often, to what extent and how much.|
 | Example | Beautifully is an adverb that describes a verb.  | Beautiful is an adjective that describes a noun. |
 
-
 <br/><br/><br/>Feel free to share feedback
