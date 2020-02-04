@@ -32,4 +32,15 @@ When you have a single, countable English noun, you must always have an article 
 Refers to items that are not counted and are always singular.<br/>
 Uncountable nouns don’t use ‘a’ or ‘an’. This is because you can’t count them. For example, advice is an uncountable noun. You can’t say “he gave me an advice”, but you can say “he gave me some advice”, or “he gave me a piece of advice”.<br/>
  
+### How to use Count nouns and Non-count nouns?<br/>
+
+Ans:
+
+| Statements | Count nouns| Non-count nouns |
+| :------------- | :------------- |  :------------- |
+| Specific identity not known | a, an |  (no article) |
+| Specific identity known| the | the |
+| All things or things in general | (no article)  | (no article) |
+
+<br/><br/><br/>Feel free to share feedback
 
