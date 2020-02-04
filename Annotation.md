@@ -9,7 +9,6 @@ An: An is used before a singular noun beginning with a vowel sound.<br/>
  Eg:  I saw an accident this morning outside my house.<br/>
 
 The: The is used before a singular or plural noun.<br/>
-
 Eg:You can use ‘the’ to make general things specific. You can use ‘the’ with any type of noun – plural or singular, countable or uncountable.<br/>
 
 “Please pass me a pen” – any pen.<br/>
