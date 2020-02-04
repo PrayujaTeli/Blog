@@ -2,21 +2,17 @@
 
 ###Articles are words that define a noun as specific or unspecific.<br/>
 
-### A<br/>
-
-A is used before a singular noun beginning with a consonant sound.<br/>
-### Eg:<br/>
+A: A is used before a singular noun beginning with a consonant sound.<br/>
+ Eg:<br/>
 My daughter really wants a dog for Christmas<br/>
 
-### An<br/>
+An: An is used before a singular noun beginning with a vowel sound.<br/>
+ Eg: <br/>
+ I saw an accident this morning outside my house.<br/>
 
-An is used before a singular noun beginning with a vowel sound.<br/>
-### Eg: I saw an accident this morning outside my house.<br/>
+The: The is used before a singular or plural noun.<br/>
 
-### The<br/>
-
-The is used before a singular or plural noun.<br/>
-### Eg:
+Eg:<br/>
 You can use ‘the’ to make general things specific. You can use ‘the’ with any type of noun – plural or singular, countable or uncountable.<br/>
 
 “Please pass me a pen” – any pen.<br/>
@@ -41,6 +37,7 @@ Ans:
 | Specific identity not known | a, an |  (no article) |
 | Specific identity known| the | the |
 | All things or things in general | (no article)  | (no article) |
+
 
 <br/><br/><br/>Feel free to share feedback
 
