@@ -3,7 +3,7 @@
 ### Articles are words that define a noun as specific or unspecific.<br/>
 
 A: A is used before a singular noun beginning with a consonant sound.<br/>
- Eg:My daughter really wants a dog for Christmas<br/>
+ Eg:My daughter really wants a dog for christmas<br/>
 
 An: An is used before a singular noun beginning with a vowel sound.<br/>
  Eg:  I saw an accident this morning outside my house.<br/>
