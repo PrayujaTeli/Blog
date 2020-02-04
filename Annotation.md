@@ -1,6 +1,6 @@
 ### [Annotations](https://Prayuja-Teli.github.io/Blog/Annotation)<br/>
 
-###Articles are words that define a noun as specific or unspecific.<br/>
+### Articles are words that define a noun as specific or unspecific.<br/>
 
 A: A is used before a singular noun beginning with a consonant sound.<br/>
  Eg:<br/>
