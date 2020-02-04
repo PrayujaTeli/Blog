@@ -28,6 +28,6 @@ Feel free to explore.
 21. [Passive Voice](https://Prayuja-Teli.github.io/Blog/PassiveVoice)
 22. [Adjective and Adverb](https://Prayuja-Teli.github.io/Blog/AdjectiveAndAdverbs)
 23. [Annotations](https://Prayuja-Teli.github.io/Blog/Annotation)
-
+24. [Yosemite's Horsetail Fall](https://Prayuja-Teli.github.io/Blog/YosemitesHorsetailFall)
 
 #### Feel free to share feedback.
