@@ -2,7 +2,7 @@
 
 Location- Yosemite National Park, California, United States<br/>
 Total height - 2,130 ft (650 m)<br/>
-Website: [Yosemite]https://www.yosemite.com/a-guide-to-yosemites-natural-firefall-horsetail-fall/<br/>
+Website: [Yosemite](https://www.yosemite.com/a-guide-to-yosemites-natural-firefall-horsetail-fall/)<br/>
 
 An ephemeral or temporary waterfall only flows at certain times, and usually not for long. (“Ephemeral” means “lasting a very short time.”)<br/>
 
