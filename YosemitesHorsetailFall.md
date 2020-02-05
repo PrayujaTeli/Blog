@@ -18,5 +18,4 @@ Horsetail Fall becomes even more spectacular on clear days in mid- to late Febru
 People who use instagram can check below profiles.They have captured incredible pictures of Horsetail Fall.<br/>
 @bersonphotos<br/> @andyheitzphotography<br/><br/><br/><br/>
 
-
 Feel free to share feedback.
