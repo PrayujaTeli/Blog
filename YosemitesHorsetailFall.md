@@ -1,6 +1,6 @@
 ### [Horsetail Fall (Yosemite)](https://Prayuja-Teli.github.io/Blog/YosemitesHorsetailFall)<br/>
 
-Location- Yosemite National Park, California, United States<br/>
+Location- [Yosemite National Park, California, United States](https://www.google.com/maps/dir/18.5393152,73.8304/Yosemite+National+Park,+California,+United+States/@1.7390691,70.3918175,3z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x8096f09df58aecc5:0x2d249c2ced8003fe!2m2!1d-119.5383294!2d37.8651011)<br/>
 Total height - 2,130 ft (650 m)<br/>
 Website: [Yosemite](https://www.yosemite.com/a-guide-to-yosemites-natural-firefall-horsetail-fall/)<br/>
 
