@@ -14,12 +14,8 @@ An ephemeral or temporary waterfall only flows at certain times, and usually not
 The waterfall last for a few hours after a heavy rainstorm or a few weeks due to seasonal runoff.<br/>
 Horsetail Fall becomes even more spectacular on clear days in mid- to late February, when the setting sun hits it just right and briefly turns it into a glowing orange “Firefall.”<br/>
 
- ![Screenshot from 2019-05-28 17-06-18](https://drive.google.com/file/d/1SnzOzQR4_mXM7xyt2NFNWvnSWTI152dF/view?usp=sharing)
  
 People who use instagram can check below profiles.They have captured incredible pictures of Horsetail Fall.<br/>
 @bersonphotos<br/> @andyheitzphotography<br/><br/><br/>
-
- ![Screenshot from 2019-05-28 17-06-18](https://drive.google.com/file/d/1YncN0YazjmtnU77zK7xdRg0-IVWW_3BC/view?usp=sharing
-)
 
 Feel free to share feedback.
