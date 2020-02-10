@@ -11,8 +11,8 @@ Feel free to explore.
 4. [/dev/null Concept](https://Prayuja-Teli.github.io/Blog/Filesystem)
 5. [TCP Protocol](https://Prayuja-Teli.github.io/Blog/TCP)
 6. [Rebasing and Merging in git](https://Prayuja-Teli.github.io/Blog/Git)
-7. [Difference between SQL, MySql and Oracle.](https://Prayuja-Teli.github.io/Blog/Database)
 8. [Dates handling in database.](https://Prayuja-Teli.github.io/Blog/Date)
+7. [Yosemite's Horsetail Fall](https://Prayuja-Teli.github.io/Blog/YosemitesHorsetailFall)
 9. [NULL concept in database.](https://Prayuja-Teli.github.io/Blog/Null)
 10. [How database parse query?](https://Prayuja-Teli.github.io/Blog/Query)
 11. [Transactions and it's properties](https://Prayuja-Teli.github.io/Blog/Properties)
@@ -28,6 +28,5 @@ Feel free to explore.
 21. [Passive Voice](https://Prayuja-Teli.github.io/Blog/PassiveVoice)
 22. [Adjective and Adverb](https://Prayuja-Teli.github.io/Blog/AdjectiveAndAdverbs)
 23. [Annotations](https://Prayuja-Teli.github.io/Blog/Annotation)
-24. [Yosemite's Horsetail Fall](https://Prayuja-Teli.github.io/Blog/YosemitesHorsetailFall)
 
 #### Feel free to share feedback.
