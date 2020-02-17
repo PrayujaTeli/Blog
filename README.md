@@ -28,5 +28,6 @@ Feel free to explore.
 21. [Passive Voice](https://Prayuja-Teli.github.io/Blog/PassiveVoice)
 22. [Adjective and Adverb](https://Prayuja-Teli.github.io/Blog/AdjectiveAndAdverbs)
 23. [Annotations](https://Prayuja-Teli.github.io/Blog/Annotation)
+24. [Pronoun, possession,Negation](https://Prayuja-Teli.github.io/Blog/negation.md)
 
 #### Feel free to share feedback.
