@@ -7,7 +7,7 @@ Pronouns are used in place of a noun we already know, so we do not have to repea
 They are I, you, he, she, it, we, they, He.<br/>
 <br/>Object: When a pronoun is used in place of a noun that is the object of a sentence, we use the object form of pronouns. <br/>These are me, you, him, her, it, us, them, him.<br/>
 <br/>Reflexive: Reflexive pronouns are used in special cases where the subject and object are the same, to demonstrate that an action is being done by the subject to the subject.<br/>
-<br/>For example, to wash yourself. These pronouns replace the object and are: myself, yourself, himself, herself, itself, ourselves, themselves,himself.<br/>
+<br/>Eg: to wash yourself. These pronouns replace the object and are: myself, yourself, himself, herself, itself, ourselves, themselves,himself.<br/>
 
 ### My vs Mine <br/>
 my is a possessive adjective and mine is a possessive pronoun.<br/>
