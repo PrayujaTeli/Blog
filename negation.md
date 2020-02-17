@@ -19,7 +19,7 @@ The following are correct examples:<br/>
 That question is mine uses mine to refer back to the subject (that question) and add information describing whose it is.<br/>
 2. Mine is something describes some object of yours (e.g. your question) which was previously named and is currently the topic of conversation.<br/>
 
-### This/that : these/those <br/>
+### This or that : these or those<br/>
 We use:<br/>
 this and that in the singular,<br/>
 these and those in the Plural.<br/>
