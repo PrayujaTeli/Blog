@@ -16,7 +16,6 @@ Mine question is ungrammatical because it incorrectly uses two nouns (mine and q
 Use a noun (my question) if the topic is just being introduced, or a pronoun (mine) if the reader or listener will already know you are talking about (they will know you are talking about your question).<br/>
 The following are correct examples:<br/>
 1. My question is something uses my to indicate whose question is being described.<br/>
-That question is mine uses mine to refer back to the subject (that question) and add information describing whose it is.<br/>
 2. Mine is something describes some object of yours (e.g. your question) which was previously named and is currently the topic of conversation.<br/>
 
 ### This or that : these or those<br/>
