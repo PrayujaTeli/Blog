@@ -16,29 +16,34 @@ The following are correct examples:<br/>
 My question is [something] uses my to indicate whose question is being described.<br/>
 That question is mine uses mine to refer back to the subject (that question) and add information describing whose it is.<br/>
 Mine is [something] describes some object of yours (e.g. your question) which was previously named and is currently the topic of conversation.<br/>
-<br/>This/that : these/those
+### This/that : these/those <br/>
 We use:<br/>
 this and that in the singular,<br/>
 these and those in the Plural.<br/>
-Generally speaking, we use this/these to refer to people and things, situations and experiences that are close to the speaker or very close in time. We use that/those to refer to people and things, situations and experiences that are more distant, either in time or physically.
+Generally speaking, we use this/these to refer to people and things, situations and experiences that are close to the speaker or very close in time. <br/>
+We use that/those to refer to people and things, situations and experiences that are more distant, either in time or physically.<br/>
 This is a great game. (We are watching the game.)<br/>
 That was a great game. (The game is over.)<br/>
 one/ones<br/>
 We use one/ones instead of repeating a countable noun.<br/>
+
 ### Singular,Plural<br/>
 Singular: one<br/>
 Plural: ones<br/>
 John has three cars – a red car and two blue cars.<br/>
 John has three cars – a red one and two blue ones.<br/>
+
 ### Every vs all<br/>
 All and every can both be used to talk about people or things in general. There is little difference in meaning.<br/>
  
 Every is used with singular countable nouns. To give the same meaning, all is used with plural nouns.<br/>
 All can be used with determiners. Every cannot normally be used with them.<br/>
-#1. The questionnaire was sent to all employees.<br/>
-#2. The questionnaire was sent to every employee.<br/>
+1. The questionnaire was sent to all employees.<br/>
+2. The questionnaire was sent to every employee.<br/>
+
 ### Quantifiers with of and the<br/>
-Quantifiers are a type of determiner which denote imprecise quantity. They modify nouns or pronouns.<br/>
+Quantifiers are a type of determiner which denote imprecise quantity.<br/>
+They modify nouns or pronouns.<br/>
 They differ from numbers or numerals which indicate precise quantity.  <br/><br/><br/><br/>
 
 Feel free to share feedback.
