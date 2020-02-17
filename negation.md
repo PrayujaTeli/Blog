@@ -1,11 +1,13 @@
 ### [Pronouns, possession, negation](https://Prayuja-Teli.github.io/Blog/negation)<br/>
 
 Pronouns are used in place of a noun we already know, so we do not have to repeat names.<br/>
-Eg:<br/>
+
 ### Subject,Object,Reflexive
-<br/>Subject: Subjective pronouns are the simplest form of the pronoun, used to replace the name of a subject, instead of repeating a noun. They are I, you, he, she, it, we, they, He.
-<br/>Object: When a pronoun is used in place of a noun that is the object of a sentence, we use the object form of pronouns. These are me, you, him, her, it, us, them, him.
-<br/>Reflexive: Reflexive pronouns are used in special cases where the subject and object are the same, to demonstrate that an action is being done by the subject to the subject. For example, to wash yourself. These pronouns replace the object and are: myself, yourself, himself, herself, itself, ourselves, themselves,himself.
+<br/>Subject: Subjective pronouns are the simplest form of the pronoun, used to replace the name of a subject, instead of repeating a noun.<br/>
+They are I, you, he, she, it, we, they, He.
+<br/>Object: When a pronoun is used in place of a noun that is the object of a sentence, we use the object form of pronouns. <br/>These are me, you, him, her, it, us, them, him.
+<br/>Reflexive: Reflexive pronouns are used in special cases where the subject and object are the same, to demonstrate that an action is being done by the subject to the subject.
+<br/>For example, to wash yourself. These pronouns replace the object and are: myself, yourself, himself, herself, itself, ourselves, themselves,himself.
 
 <br/> ### My vs Mine
 my is a possessive adjective and mine is a possessive pronoun. So, this means you use my where you already have a noun (such as question) and want to indicate ownership. Like with all pronouns, you use mine in place of another noun when it's understood what's being discussed.
