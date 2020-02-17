@@ -26,16 +26,16 @@ this and that in the singular,<br/>
 these and those in the Plural.<br/>
 Generally speaking, we use this/these to refer to people and things, situations and experiences that are close to the speaker or very close in time. <br/>
 We use that/those to refer to people and things, situations and experiences that are more distant, either in time or physically.<br/>
-This is a great game. (We are watching the game.)<br/>
-That was a great game. (The game is over.)<br/>
+1. This is a great game. (We are watching the game.)<br/>
+2. That was a great game. (The game is over.)<br/>
 one/ones<br/>
 We use one/ones instead of repeating a countable noun.<br/>
 
 ### Singular,Plural<br/>
 Singular: one<br/>
 Plural: ones<br/>
-John has three cars – a red car and two blue cars.<br/>
-John has three cars – a red one and two blue ones.<br/>
+1. John has three cars – a red car and two blue cars.<br/>
+2. John has three cars – a red one and two blue ones.<br/>
 
 ### Every vs all<br/>
 All and every can both be used to talk about people or things in general. There is little difference in meaning.<br/>
