@@ -13,7 +13,7 @@ They are I, you, he, she, it, we, they, He.<br/>
 my is a possessive adjective and mine is a possessive pronoun.So, this means you use my where you already have a noun (such as question) and want to indicate ownership.
 <br/>Like with all pronouns, you use mine in place of another noun when it's understood what's being discussed.<br/><br/>
 Mine question is ungrammatical because it incorrectly uses two nouns (mine and question) as the subject of a sentence.You use either a noun or a pronoun, never both at the same time.<br/>
-Use a noun (my question) if the topic is just being introduced, or a pronoun (mine) if the reader or listener will already know you are talking about (they will know you are talking about your question).<br/>
+Use a noun (my question) if the topic is just being introduced, or a pronoun (mine) if the reader or listener will already know you are talking about (they will know you are talking about your question).<br/><br/>
 The following are correct examples:<br/>
 1. My question is something uses my to indicate whose question is being described.<br/>
 That question is mine uses mine to refer back to the subject (that question) and add information describing whose it is.<br/>
