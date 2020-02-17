@@ -4,12 +4,12 @@ Pronouns are used in place of a noun we already know, so we do not have to repea
 
 ### Subject,Object,Reflexive
 <br/>Subject: Subjective pronouns are the simplest form of the pronoun, used to replace the name of a subject, instead of repeating a noun.<br/>
-They are I, you, he, she, it, we, they, He.
-<br/>Object: When a pronoun is used in place of a noun that is the object of a sentence, we use the object form of pronouns. <br/>These are me, you, him, her, it, us, them, him.
-<br/>Reflexive: Reflexive pronouns are used in special cases where the subject and object are the same, to demonstrate that an action is being done by the subject to the subject.
+They are I, you, he, she, it, we, they, He.<br/>
+<br/>Object: When a pronoun is used in place of a noun that is the object of a sentence, we use the object form of pronouns. <br/>These are me, you, him, her, it, us, them, him.<br/>
+<br/>Reflexive: Reflexive pronouns are used in special cases where the subject and object are the same, to demonstrate that an action is being done by the subject to the subject.<br/>
 <br/>For example, to wash yourself. These pronouns replace the object and are: myself, yourself, himself, herself, itself, ourselves, themselves,himself.<br/>
 
- ### My vs Mine <br/>
+### My vs Mine <br/>
 my is a possessive adjective and mine is a possessive pronoun. So, this means you use my where you already have a noun (such as question) and want to indicate ownership. Like with all pronouns, you use mine in place of another noun when it's understood what's being discussed.<br/>
 Mine question is ungrammatical because it incorrectly uses two nouns (mine and question) as the subject of a sentence. You use either a noun or a pronoun, never both at the same time. Use a noun (my question) if the topic is just being introduced, or a pronoun (mine) if the reader or listener will already know you are talking about (they will know you are talking about your question).<br/>
 The following are correct examples:<br/>
