@@ -29,5 +29,6 @@ Feel free to explore.
 22. [Adjective and Adverb](https://Prayuja-Teli.github.io/Blog/AdjectiveAndAdverbs)
 23. [Annotations](https://Prayuja-Teli.github.io/Blog/Annotation)
 24. [Pronoun, possession and Negation](https://Prayuja-Teli.github.io/Blog/negation)
+25. [Word Order in english](https://Prayuja-Teli.github.io/Blog/WordOrder)
 
 #### Feel free to share feedback.
