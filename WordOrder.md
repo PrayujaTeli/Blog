@@ -4,8 +4,8 @@ Most English sentences (clauses) conform to the SVO word order. <br/>
 This means that the Subject comes before the Verb, which comes before the Object.<br/> 
 
 The sentence<br/>
-The word order in sentences is: Subject – Verb (Predicate) – Object.<br/>
-Examples:<br/><br/>
+The word order in sentences is: Subject – Verb (Predicate) – Object.<br/><br/>
+Examples:<br/>
 | Subject | Verb | Object |
 | :------------- | :------------- |  :------------- |
 | I  | play | 	football |
@@ -15,9 +15,7 @@ Examples:<br/><br/>
 | I | bought | a new computer |
 | She | doesn't like | dogs |
 | Why |did you | do | that? |
-
-
-<br/><br/>
+<br/>
 ATTENTION!<br/>
 Do not split the verb forms in English. The following sentence is wrong: I can English speak.<br/><br/><br/><br/>
 
