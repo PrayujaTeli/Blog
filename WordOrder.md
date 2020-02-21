@@ -7,15 +7,13 @@ The sentence<br/>
 The word order in sentences is: Subject – Verb (Predicate) – Object.<br/><br/>
 Examples:<br/>
 
-| Subject | Verb | Object |
-| :------------- | :------------- |  :------------- |
-| I  | play | 	football |
-| Max	| reads|	books.
-| We |	can speak |	English.
-| Sue	|is singing|	a nice song.|
-| I | bought | a new computer |
-| She | doesn't like | dogs |
-| Why |did you | do | that? |
+ I (S)   play  (V)	football (O)<br/>
+ Max	(S)  reads(V)	books.(O)<br/>
+ We (S) 	can speak (V)	English.(O)<br/>
+ Sue(S) is singing	(V)a nice song.(O)<br/>
+ I (S)  bought  a (V)new computer (O)<br/>
+ She (S)  doesn't like (V)  dogs (O)<br/>
+ Why (S) did you (V) do  that? (O)<br/>
 
 <br/>
 ATTENTION!<br/>
