@@ -14,7 +14,6 @@ Examples:<br/>
  I (S)  bought  a (V)new computer (O)<br/>
  She (S)  doesn't like (V)  dogs (O)<br/>
  Why (S) did you (V) do  that? (O)<br/>
-
 <br/>
 ATTENTION!<br/>
 Do not split the verb forms in English. The following sentence is wrong: I can English speak.<br/><br/><br/><br/>
