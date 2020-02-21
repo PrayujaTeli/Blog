@@ -6,6 +6,7 @@ This means that the Subject comes before the Verb, which comes before the Object
 The sentence<br/>
 The word order in sentences is: Subject – Verb (Predicate) – Object.<br/><br/>
 Examples:<br/>
+
 | Subject | Verb | Object |
 | :------------- | :------------- |  :------------- |
 | I  | play | 	football |
@@ -15,6 +16,7 @@ Examples:<br/>
 | I | bought | a new computer |
 | She | doesn't like | dogs |
 | Why |did you | do | that? |
+
 <br/>
 ATTENTION!<br/>
 Do not split the verb forms in English. The following sentence is wrong: I can English speak.<br/><br/><br/><br/>
