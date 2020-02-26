@@ -30,5 +30,10 @@ Feel free to explore.
 23. [Annotations](https://Prayuja-Teli.github.io/Blog/Annotation)
 24. [Pronoun, possession and Negation](https://Prayuja-Teli.github.io/Blog/negation)
 25. [Word Order in english](https://Prayuja-Teli.github.io/Blog/WordOrder)
+26. [Conjunction and clause](https://Prayuja-Teli.github.io/Blog/Conjunctionclause)
+27. [If sentences / conditionals](https://Prayuja-Teli.github.io/Blog/conditionals)
+28. [Reported speech](https://Prayuja-Teli.github.io/Blog/Reportedspeech)
+
+
 
 #### Feel free to share feedback.
