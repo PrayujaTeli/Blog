@@ -13,7 +13,6 @@ Conjunctions allow you to form complex, elegant sentences and avoid the choppine
 Corrent: I work quickly and careful.<br/>
 Incorrect: I work quickly and carefully.<br/>
 
-
 ### Cluase:<br/>
 
 a unit of grammatical organization next below the sentence in rank and in traditional grammar said to consist of a subject and predicate.<br/>
