@@ -3,7 +3,8 @@
 ### What is reported speech?<br/>
 
 Reported speech is when you tell somebody else what you or a person said before.<br/>
-If we report what another person has said, we usually do not use the speaker’s exact words (direct speech), but reported (indirect) speech. Therefore, you need to learn how to transform direct speech into reported speech. The structure is a little different depending on whether you want to transform a statement, question or request.<br/>
+If we report what another person has said, we usually do not use the speaker’s exact words (direct speech), but reported (indirect) speech. Therefore, you need to learn how to transform direct speech into reported speech.<br/>
+The structure is a little different depending on whether you want to transform a statement, question or request.<br/>
 
 ### How it works?<br/>
 
