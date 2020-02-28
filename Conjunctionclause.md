@@ -15,7 +15,7 @@ Incorrect: I work quickly and carefully.<br/>
 
 ### Clause:<br/>
 
-a unit of grammatical organization next below the sentence in rank and in traditional grammar said to consist of a subject and predicate.<br/>
+A unit of grammatical organization next below the sentence in rank and in traditional grammar said to consist of a subject and predicate.<br/>
 
 Example:<br/>
 1. He must stop laughing. - Standard declarative SV-clause (verb second order)<br/>
