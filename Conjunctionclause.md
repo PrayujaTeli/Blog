@@ -19,7 +19,7 @@ A unit of grammatical organization next below the sentence in rank and in tradit
 
 Example:<br/>
 1. He must stop laughing. - Standard declarative SV-clause (verb second order)<br/>
-2. Should he stop laughing? - Yes/no-question expressed by verb first order<br/><br/><br/><br/><br/>
+2. Should he stop laughing? - Yes/no-question expressed by verb first order<br/><br/><br/><br/>
 
 
 Feel free to share feedback.
