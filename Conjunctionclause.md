@@ -1,4 +1,4 @@
-### [Conjunction and clause](https://Prayuja-Teli.github.io/Blog/Conjunctionclause)<br/>
+### [Conjunction and Clause](https://Prayuja-Teli.github.io/Blog/Conjunctionclause)<br/>
 
 ### Conjunction<br/>
 
