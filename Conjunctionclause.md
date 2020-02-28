@@ -1,6 +1,6 @@
 ### [Conjunction and clause](https://Prayuja-Teli.github.io/Blog/Conjunctionclause)<br/>
 
-### conjunction<br/>
+### Conjunction<br/>
 
 A conjunction is the glue that holds words, phrases and clauses (both dependent and independent) together. There are three different kinds of conjunctions -- coordinating, subordinating, and correlative -- each serving its own, distinct purpose, but all working to bring words together.<br/>
 Conjunctions are words that link other words, phrases, or clauses together.<br/>
