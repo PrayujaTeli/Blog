@@ -16,10 +16,10 @@ The IF-clause introduces a condition. The main clause is the result of that cond
 
 1. The Zero Conditional: <br/>
 (if + present simple, ... present simple)<br/>
-If you heat water t<br/>o 100 degrees, it boils.
+If you heat water to 100 degrees, it boils.<br/>
 2. The First Conditional:<br/>
 (if + present simple, ... will + infinitive)<br/>
-If it rains tomorrow, we'll go to the cinema.
+If it rains tomorrow, we'll go to the cinema.<br/>
 3. The Second Conditional:<br/>
 (if + past simple, ... would + infinitive)<br/>
 If I had a lot of money, I would travel around the world.<br/>
