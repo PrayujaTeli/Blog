@@ -1,4 +1,4 @@
-### [File Management](https://Prayuja-Teli.github.io/Blog/FileManagment)
+### [File Management](https://Prayuja-Teli.github.io/Blog/FileManagment)<br/>
 
 All data in Unix is organized into files. All files are organized into directories. These directories are organized into a tree-like structure called the filesystem.<br/>
 
@@ -10,7 +10,8 @@ Directories − Directories store both special and ordinary files. For users fam
 
 Special Files − Some special files provide access to hardware such as hard drives, CD-ROM drives, modems, and Ethernet adapters.<br/>
 
-### File System Permissions <br/>
+
+File System Permissions <br/>
 
 
 Because Linux is a multiuser system, every file in a Linux file system belongs to a user and a group. <br/>
