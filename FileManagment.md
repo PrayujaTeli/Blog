@@ -1,4 +1,4 @@
-[File Management](https://Prayuja-Teli.github.io/Blog/FileManagment)
+### [File Management](https://Prayuja-Teli.github.io/Blog/FileManagment)
 
 All data in Unix is organized into files. All files are organized into directories. These directories are organized into a tree-like structure called the filesystem.<br/>
 
