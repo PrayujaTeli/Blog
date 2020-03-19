@@ -1,7 +1,7 @@
 ## [Rebasing and Merging](https://prayuja-teli.github.io/Blog/Git)     
 
 
-> ## Merging <br/>
+ ## Merging <br/>
 
 Merging is a common practice for developers using version control systems. Whether branches are created for testing, bug fixes, or other reasons, merging commits changes to another location. To be more specific, merging takes the contents of a source branch and integrates it with a target branch. In this process, only the target branch is changed. 
 
@@ -33,7 +33,7 @@ $ git merge master feature<br/>
 A checkout is the act of switching between different versions of a target entity.<br/>
 
 
-> ## Rebasing <br/>
+ ## Rebasing <br/>
  
 The rebase re-writes the changes of one branch onto another without creating a new commit.<br/>
  
