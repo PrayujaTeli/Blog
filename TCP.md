@@ -33,7 +33,7 @@ The push flag (like the urgent flag) exists to ensure that the data is given the
 #### Reset Flag<br/>
 The reset flag is used when a segment arrives that is not intended for the current connection. If you were to send a packet to a host in order to establish a connection, and there was no such service waiting to answer at the remote host, the host would automatically reject the request and then send you a reply with the RST flag set.<br/>
 
-#### SYNchronization Flag<br/>
+#### Synchronization Flag<br/>
 The synchronization flag is perhaps the best-known flag in TCP communications. The SYN flag is initially sent when establishing the classic three-way handshake between two hosts.<br/>
 
 #### FIN flag<br/>
