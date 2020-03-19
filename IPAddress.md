@@ -1,8 +1,7 @@
 ## [Ip Address](https://prayuja-teli.github.io/Blog/IPAddress)     
 
 #### Ip Address - Internet Protocol Address<br/>
-
-> ## Definition<br/>
+ ## Definition<br/>
 
 An Internet Protocol address (IP address) is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.<br/>
 
@@ -12,11 +11,11 @@ An Internet Protocol address (IP address) is a numerical label assigned to each 
 IP address is short for Internet Protocol (IP) address. An IP address is an identifier for a computer or device on a TCP/IP network. Networks using the TCP/IP protocol route messages based on the IP address of the destination. 
 
 
-> ## Function<br/>
+ ## Function<br/>
 
 An IP address serves two principal functions. It identifies the host, or more specifically its network interface, and it provides the location of the host in the network, and thus the capability of establishing a path to that host. 
  
-> ## What is public IP address?<br/>
+ ## What is public IP address?<br/>
 
 A public IP address is the address that is assigned to a computing device to allow direct access over the Internet. A web server, email server and any server device directly accessible from the Internet are candidate for a public IP address. A public IP address is globally unique, and can only be assigned to a unique device.
 
@@ -38,7 +37,7 @@ A private IP address is the address space allocated by InterNIC to allow organiz
 
 *Note - It is capital I after hostname.*
  
-> ## How Does the Internet Work?
+ ## How Does the Internet Work?
 
 Internet is a global network of computers each computer connected to the Internet must have a unique address. Internet addresses are in the form of nnn.nnn.nnn.nnn where nnn must be a number from 0 - 255. This address is known as an IP address. The program to see if a computer on the Internet is alive is ping.
 
@@ -80,6 +79,6 @@ When applications open a connection to another computer on the Internet, the mes
 
 
 
-### Share comment and feedback please.
+ Share comment and feedback please.
 
  
