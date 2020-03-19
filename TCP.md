@@ -3,8 +3,7 @@
 #### TCP Protocol - Transmission Control Protocol<br/>
 ##### Historical origin - May 1974
 
-
-> ## Discription<br/>
+ ## Discription<br/>
 
 The Transmission Control Protocol provides a communication service at an intermediate level between an application program and the Internet Protocol.TCP is a transport layer protocol in the OSI layer and is used to create a connection between remote computers by transporting and ensuring the delivery of messages over supporting networks and the Internet. Transmission Control Protocol is a connection-oriented communications protocol that facilitates the exchange of messages between computing devices in a network.<br/>
 
@@ -19,7 +18,7 @@ TCP provides flow control and quality of service.<br/>
 TCP operates in Client/Server point-to-point mode.<br/>
 TCP provides full-duplex server, i.e. it can perform roles of both receiver and sender.<br/>
 
->## Technical Flag and Handshake Analysis<br/>
+## Technical Flag and Handshake Analysis<br/>
 
 #### Urgent Pointer Flag<br/>
 
