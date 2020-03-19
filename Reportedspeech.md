@@ -18,7 +18,7 @@ direct speech : 	“I speak English.”<br/>
 reported speech: 	He says that he speaks English.<br/>
 reported speech:	He said that he spoke English.<br/>
 
-### How to use Reported Speech<br/>
+### How to use Reported Speech?<br/>
 If you have a sentence in Direct Speech, try to follow our 5 steps to put the sentence into Reported Speech.<br/>
 
 Define the type of the sentence (statement, questions, command)<br/>
