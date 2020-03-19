@@ -1,7 +1,7 @@
 
 ## [Git and Git command](https://prayuja-teli.github.io/Blog/git)     
 
-> ## History of Git-Hub
+## History of Git-Hub
 
 Founded	February 8, 2008; 11 years ago.<br/>
 Launched	April 10, 2008; 11 years ago.<br/>
@@ -9,14 +9,14 @@ Launched	April 10, 2008; 11 years ago.<br/>
 GitHub, a subsidiary of Microsoft, is an American web-based hosting service for version control using Git. It is mostly used for computer code.<br/>
 
 
-> ## History of Git
+ ## History of Git
 
 Developer(s)	Junio Hamano and others.<br/>
 Initial release	7 April 2005; 14 years ago.<br/>
 
 Git- is a distributed version control system for tracking changes in source code during software development.<br/>
 
-> ## Git Commands<br/>
+## Git Commands<br/>
 
 #### git clone<br/>
 
@@ -70,7 +70,7 @@ The "push" command is used to publish new local commits on a remote server.git-p
 --tags  Pushes all local tags.<br/>
 --delete Deletes the specified remote branch.<br/>
 
-> ## The tree structure of command<br/>
+## The tree structure of command<br/>
 git add filename<br/>
 now commit your code<br/>
 git commit -m "added some changes to my repo!"<br/>
@@ -163,4 +163,4 @@ version:refname or v:refname (here tag names are treated as versions).<br/>
 git tag -l --sort=-version:refname "wildcard"<br/>
 
 
-#### Feel free to share feedback please.
+ Feel free to share feedback please.
