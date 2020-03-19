@@ -1,21 +1,21 @@
 ## [ping command](https://prayuja-teli.github.io/Blog/ping)     
 
-> ## History 
+ ## History 
 
 Developed by - Michael Muss<br/>
 Development date - 1983<br/>
 Type - network data packet command<br/>
 
 
-> ## Definition
+ ## Definition
 
 Ping is a computer network administration  system software designed to help to analyze, configure, optimize or maintain a computer  used to test the reachability of a host on an Internet Protocol (IP) network.
 
-> ## Description - 
+ ## Description - 
 
 Ping uses ICMP(Internet Control Message Protocol) to send an ICMP echo message to the specified host if that host is available then it sends ICMP reply message.
 
-> ## Execution 
+## Execution 
 
 Open terminal - Ctrl + Alt + T <br/>
 Syntax - ping argument <br/>
@@ -23,7 +23,7 @@ Argument - Input given to a command line to process that input with the help of 
 
 #### Note - If ping command won't work try typing sudo infornt of ping command.<br/>
 
-> ## Some Basic Ping functions<br/>
+ ## Some Basic Ping functions<br/>
 
 Here are some basic ping functions that you will be using to check the performance of your network:<br/>
 
@@ -62,7 +62,7 @@ Ealier a default sized packets were sent to a host but we can send light and hea
 
  ping -s 40 -c 5 www.google.com <br/>
  
-> ## Basic ping options :<br/>
+ ## Basic ping options :<br/>
 #### -d<br/>
 Set the SO_DEBUG socket option.<br/>
 #### -l<br/>
@@ -91,7 +91,7 @@ Specified size of packetsize. Default is 64.<br/>
 Amount of times to send the ping request.<br/>
  
  
-### Share comment and feedback please.
+ Share comment and feedback please.
 
 
  
