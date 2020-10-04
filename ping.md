@@ -1,4 +1,4 @@
-## [ping command](https://prayuja-teli.github.io/Blog/ping)     
+## [Ping command](https://prayuja-teli.github.io/Blog/ping)     
 
  ## History 
 
