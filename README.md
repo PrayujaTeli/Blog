@@ -1,6 +1,6 @@
 # teliprayuja.github.io
 
-Below are some Blog I have wrote to share content that I have learned. Feel free to explore.
+Below are some Blogs I have wrote to share content that I have learned. Feel free to explore.
 
 **Blogs:**
 1. [ping Command](https://teliprayuja.github.io/Blog/ping)
