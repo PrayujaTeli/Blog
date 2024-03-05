@@ -1,6 +1,6 @@
 # teliprayuja.github.io
 
-Below are some Blogs I have wrote to share content that I have learned. Feel free to explore.
+Below are some Blogs I have written to share content I have learned. Feel free to explore.
 
 **Blogs:**
 1. [ping Command](https://teliprayuja.github.io/Blog/ping)
@@ -26,10 +26,10 @@ Below are some Blogs I have wrote to share content that I have learned. Feel fre
 21. [Passive Voice](https://teliprayuja.github.io/Blog/PassiveVoice)
 22. [Adjective and Adverb](https://teliprayuja.github.io/Blog/AdjectiveAndAdverbs)
 23. [Annotations](https://teliprayuja.github.io/Blog/Annotation)
-24. [Pronoun, possession and Negation](https://teliprayuja.github.io/Blog/negation)
-25. [Word Order in english](https://teliprayuja.github.io/Blog/WordOrder)
+24. [Pronoun, possession, and Negation](https://teliprayuja.github.io/Blog/negation)
+25. [Word Order in English](https://teliprayuja.github.io/Blog/WordOrder)
 26. [Conjunction and clause](https://teliprayuja.github.io/Blog/Conjunctionclause)
-27. [If sentences / conditionals](https://teliprayuja.github.io/Blog/conditionals)
+27. [If sentences/conditionals](https://teliprayuja.github.io/Blog/conditionals)
 28. [Reported speech](https://teliprayuja.github.io/Blog/Reportedspeech)
 29. [File Management](https://teliprayuja.github.io/Blog/FileManagment)
 
