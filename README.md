@@ -1,5 +1,3 @@
-# teliprayuja.github.io
-
 Below are some Blogs I have written to share content I have learned. Feel free to explore.
 
 **Blogs:**
